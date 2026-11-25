@@ -1,0 +1,20 @@
+# сборка
+bin/
+obj/
+*.dll
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+# мусор разработки
+*.bak*
+*.log
+*.jsonl
+__pycache__/
+*.pyc
+*.png
+архив_llm/
+.dsh/
+_decomp/
+# локальное
+.vs/
+*.user

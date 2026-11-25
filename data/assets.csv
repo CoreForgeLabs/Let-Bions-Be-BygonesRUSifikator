@@ -1,0 +1,839 @@
+actor;71;Name;A2/Barista;Бариста
+actor;71;Display Name;Barista;Бариста
+actor;75;Name;A2/Barricade;Баррикада
+actor;75;Display Name;Barricade;Баррикада
+actor;69;Name;A2/Escortess;Эскортница
+actor;69;Display Name;Escortess;Эскортница
+actor;74;Name;A2/Jalani;Джалани
+actor;74;Display Name;Jalani;Джалани
+actor;73;Name;A2/Kevin;Кевин
+actor;73;Display Name;Kevin;Кевин
+actor;72;Name;A2/Palers;Палеры
+actor;72;Display Name;Palers;Палеры
+actor;80;Name;A3/Carmen;Кармен
+actor;80;Display Name;Carmen;Кармен
+actor;81;Name;A3/Cooper and Lucy;Купер и Люси
+actor;81;Display Name;Cooper and Lucy;Купер и Люси
+actor;79;Name;A3/D;Ди
+actor;79;Display Name;D;Д
+actor;78;Name;A3/DDevice;A3/ДДевайс
+actor;78;Display Name;D's Device;Устройство Ди
+actor;77;Name;A3/Paler;A3/Пейлер
+actor;83;Name;A3/Sentinel;A3/Стражник
+actor;83;Display Name;Sentinel;Часовой
+actor;37;Name;Achievements;Достижения
+actor;67;Name;Baths;Бани
+actor;57;Name;Bodi;Боди
+actor;44;Name;BullSec;БулСек
+actor;44;Display Name;BullSec Investigators;Следователи БулСека
+actor;29;Name;Buzz;Базз
+actor;49;Name;Cat;Кот
+actor;8;Name;Chenki Muscles;Ченки-Мускул
+actor;55;Name;Chlop;Пацан
+actor;1;Name;Cooper;Купер
+actor;54;Name;Czaba;Жаба
+actor;2;Display Name;Femme Fatale;Роковая женщина
+actor;50;Name;debug;отладка
+actor;28;Name;Dimwit;Балбес
+actor;28;Display Name;big guy;Верзила
+actor;65;Name;Disel;Дизель
+actor;65;Display Name;Diesel;Дизель
+actor;22;Name;Flats/Butcher;Мясник
+actor;22;Display Name;Butcher;Мясник
+actor;6;Name;Flats/Dzo;Дзо
+actor;6;Display Name;Dzo;Дзо
+actor;62;Name;Flats/Girl;Девушка
+actor;62;Display Name;Girl;Девушка
+actor;47;Name;Flats/Trafika guy;Парень из Трафики
+actor;47;Display Name;Trafikaner;Трафиканер
+actor;63;Name;Flats/Voice;Голос
+actor;63;Display Name;unknown voice;Неизвестный голос
+actor;58;Name;Gard;Гард
+actor;66;Name;Ghreska;Грешка
+actor;10;Name;Granny;Бабуля
+actor;36;Name;Gun;Пушка
+actor;36;Display Name;a voice from the drawer;голос из ящика
+actor;59;Name;I1 AP-Turret;I1 БП-Турель
+actor;59;Display Name;Turret;Турель
+actor;61;Name;Inferno;Инферно
+actor;21;Name;Jim;Джим
+actor;48;Name;Kitty;Китти
+actor;15;Name;Kriv;Крив
+actor;15;Display Name;Puck's dad;Отец Пука
+actor;4;Name;Lucy;Люси
+actor;45;Name;Lucy's Friends;Друзья Люси
+actor;5;Name;Mali Cvet;Мали Цвет
+actor;5;Display Name;Creep in the corner;Тип в углу
+actor;31;Name;Metro/Guide;Метро/Гид
+actor;31;Display Name;Guide;Проводник
+actor;40;Name;Metro/Perfume Salesman;Продавец парфюма
+actor;40;Display Name;Guza;Гуза
+actor;33;Name;Metro/Savica;Савица
+actor;33;Display Name;Savica;Савица
+actor;32;Name;Metro/Voris;Ворис
+actor;32;Display Name;Umbrella Salesman;Продавец зонтиков
+actor;17;Name;Mila;Мила
+actor;3;Name;Narrator;Рассказчик
+actor;64;Name;Neighbour;Сосед
+actor;84;Name;New Actor 84;Новый актёр 84
+actor;25;Name;Preacher;Проповедник
+actor;9;Name;Puck;Пак
+actor;9;Display Name;Lucy's Guide;Проводник Люси
+actor;43;Name;Rose;Роза
+actor;16;Name;Sally;Салли
+actor;35;Name;Scray/Alkosam;Алкосам
+actor;35;Display Name;Alkosam;Алкосам
+actor;14;Name;Scray/Malt;Мальт
+actor;14;Display Name;Malt;Мальт
+actor;20;Name;script;скрипт
+actor;56;Name;Secretary;Секретарь
+actor;27;Name;SFX;Звук
+actor;38;Name;Subtitles;Субтитры
+actor;76;Name;Taxi;Такси
+actor;42;Name;Tip:;Совет:
+actor;13;Name;Viktii;Викти
+actor;11;Name;Viktii Boys;Парни Викти
+actor;11;Display Name;Viktii's Boys;Парни Викти
+actor;18;Display Name;VIP Bodyguards;ВИП-телохранители
+actor;12;Name;Zina Chenki;Зина Ченки
+actor;12;Display Name;Zina;Зина
+item;43;Name;Cigerette;Сигарета
+item;64;Name;A bottle of rakija;Бутылка ракии
+item;1;Name;Gun;Пушка
+item;1;Location;in drawer;в ящике
+item;45;Name;photo of carmen;фото кармен
+item;45;Display Name;Photo of carmen;Фото Кармен
+item;3;Display Name;Photo of Lucy;Фото Люси
+item;31;Name;Jasmine scented lipstick;Помада с ароматом жасмина
+item;79;Name;Pet Bion 6.35 charger;Зарядка для питомца-биона 6.35
+item;80;Name;BullSec Hand;Рука БулСека
+item;89;Name;Jim's Delivery;Доставка Джима
+item;89;Description;A bag with a few packs of cevapcici;Сумка с несколькими упаковками чевапчичей
+item;110;Name;Fresh Cevapi;Свежие чевапи
+item;112;Name;Tasks/Viktii;Задачи/Викти
+item;112;Entry 2;Find the survivor;Найти выжившую
+item;112;Entry 1;Report to Viktii;Доложить Викти
+item;112;Entry 3;Distract Zina;Отвлечь Зину
+item;112;Entry 5;Investigate the incident room;Осмотреть комнату инцидента
+item;119;Name;Clues/Viktii;Улики/Викти
+item;119;Entry 2;Didn't kidnap Lucy;Не похищал Люси
+item;119;Entry 1;Hides something about Lucy's Room;Что-то скрывает о комнате Люси
+item;119;Entry 3;Doesn't know anything about Lucy;Ничего не знает о Люси
+item;78;Name;Tasks/Zina;Задачи/Зина
+item;78;Entry 2;Get a permission to investigate BullSec scene;Получить разрешение осмотреть место казни БулСека
+item;78;Entry 1;Find Zina;Найти Зину
+item;78;Entry 3;Report to Zina;Доложить Зине
+item;78;Entry 6;Investigate Preacher's plans.;Выяснить планы Проповедника
+item;78;Entry 7;Find out why Dzo is looking for the server room;Выяснить, зачем Дзо ищет серверную
+item;77;Name;Clues/Zina;Улики/Зина
+item;77;Entry 2;Waiting for backup;Ждёт подкрепления
+item;77;Entry 1;Brought peace to the Pit;Принёс мир в Яму
+item;77;Entry 3;Will help me find Lucy if I make it worth her while;Поможет найти Люси, если заплатить
+item;55;Name;Tasks/Cooper;Задачи/Купер
+item;55;Group;Tasks;Задачи
+item;55;Display Name;Personal Tasks;Личные задачи
+item;55;Entry 4;Evade eviction;Избежать выселения
+item;55;Entry 2;Get more rakija from the Scray;Взять ещё ракии у Скреи
+item;55;Entry 1;Check out the 'Impaled Cyber Investigators';Проверить «Посаженных на кол киберследователей»
+item;55;Entry 3;Open the door;Открыть дверь
+item;55;Entry 6;Find the missing girl;Найти пропавшую девушку
+item;55;Entry 8;Enter Inferno VIP;Попасть в ВИП Инферно
+item;55;Entry 5;Ask Malt where's Dzo;Спросить Мальта, где Дзо
+item;55;Entry 7;Find a Guide to enter the Inferno;Найти проводника в Инферно
+item;48;Name;Tasks/Lucy;Задачи/Люси
+item;48;Entry 4;Find a way into the Inferno VIP;Найти путь в ВИП Инферно
+item;48;Entry 2;Ask around the Metro Station;Расспросить на станции метро
+item;48;Entry 1;Ask around the Inferno;Расспросить в Инферно
+item;48;Entry 3;Discover Lucy's current location;Выяснить, где сейчас Люси
+item;48;Entry 6;Investigate Room 5678;Осмотреть комнату 5678
+item;48;Entry 8;Did she wear a black wig? And why?;Носила ли она чёрный парик? И зачем?
+item;48;Entry 10;Ask about the worm;Спросить про «Червя»
+item;48;Entry 5;Find Inferno VIP cartridge;Найти картридж ВИП Инферно
+item;48;Entry 7;What did they use the tech gadget for?;Для чего им был нужен техно-гаджет?
+item;48;Entry 9;Were there more women with them?;С ними были ещё женщины?
+item;47;Name;Clues/Lucy;Улики/Люси
+item;47;Entry 4;Goodfellow was her guide;Гудфеллоу был её проводником
+item;47;Entry 14;Kidnapped from the Inferno room;Похищена из комнаты Инферно
+item;47;Entry 2;Bought the last bottle of an old-scent perfume;Купила последний флакон духов со старым ароматом
+item;47;Entry 1;Class A+ citizen. 7 years old;Гражданка класса А+. 7 лет
+item;47;Entry 3;Puck was her guide;Пак был её проводником
+item;47;Entry 6;Came with friends by a metro train;Приехала с подругами на поезде метро
+item;47;Entry 8;Logged leaving Inferno at 00:24 with her friends;Зафиксирован выход из Инферно в 00:24 с подругами
+item;47;Entry 12;Puck arranged an escort for her and her friends to the Metro;Пак устроил ей и подругам сопровождение до метро
+item;47;Entry 10;Lucy and her friends probably went to Inferno after arrival;Люси с подругами, вероятно, сразу отправилась в Инферно
+item;47;Entry 16;00:00 Took the worm;00:00 — принял «Червя»
+item;47;Entry 18;Wore a black wig to look like Kitty;Носила чёрный парик, чтобы походить на Китти
+item;47;Entry 5;Lucy never returned to the metro station;Люси так и не вернулась на станцию метро
+item;47;Entry 7;08:75 - Entered Inferno;08:75 — вошла в Инферно
+item;47;Entry 9;Her lipstick ended up in Puck's apartment;Её помада оказалась в квартире Пака
+item;47;Entry 13;Switched identities with Kitty;Обменялась личностями с Китти
+item;47;Entry 15;Wore Kitty's escortess uniform;Носила форму эскортницы Китти
+item;47;Entry 17;Had breakfast with Granny when the BullSec incident occured;Завтракала с Бабулей, когда случился инцидент с БулСеком
+item;49;Name;Tasks/Mila;Задачи/Мила
+item;49;Entry 4;Ask about Fedora Fuckboy;Спросить про мудака в федоре
+item;49;Entry 2;Ask the Chenki Goons where to find Mila;Спросить у шестёрок Ченки, где найти Милу
+item;49;Entry 1;Where to find Mila?;Где искать Милу?
+item;49;Entry 3;Find Mila at CoffeeINN;Найти Милу в КофеИНН
+item;49;Entry 6;Ask about Lucy;Спросить про Люси
+item;49;Entry 5;Ask about BullSec impalement;Спросить про посаженных на кол
+item;49;Entry 7;Ask about Puck;Спросить про Пака
+item;50;Name;Clues/Mila;Улики/Мила
+item;50;Entry 4;Worked on Trash at the time of BullSec impalement;Работал на Свалке во время казни БулСека
+item;50;Entry 2;Mila developed feelings for Puck;Мила прониклась чувствами к Паку
+item;50;Entry 1;First shift at Trash Corner (starts around 00.00);Первая смена на Свалке (начинается около 00:00)
+item;50;Entry 3;Knows Puck;Знает Пака
+item;51;Name;Tasks/Jim;Задачи/Джим
+item;51;Entry 1;Deliver food to Flats, Corridor 88-990;Доставить еду в Кварталы, Коридор 88-990
+item;52;Name;Clues/Jim;Улики/Джим
+item;52;Entry 2;Busted his cheating ass;Сцапал его изменническую задницу
+item;52;Entry 1;Saved his cheating ass;Спас его лживую задницу
+item;52;Entry 3;Wasn't his shift when the impalement happened;Не его была смена, когда их сажали на кол
+item;53;Name;Tasks/Rose;Задачи/Роуз
+item;53;Entry 4;What really happened to Rose?;Что на самом деле случилось с Розой?
+item;53;Entry 2;Why did Jim call her a whore?;Почему Джим назвал её шлюхой?
+item;53;Entry 1;Find Rose;Найти Розу
+item;53;Entry 3;What happened to Rose?;Что случилось с Розой?
+item;53;Entry 5;Solve the Rose-Kitty conundrum ;Разгадать загадку Роуз-Китти 
+item;54;Name;Clues/Rose;Улики/Роуз
+item;54;Entry 4;Left Trash Corner with Goodfellow;Ушла со Свалки с Гудфеллоу
+item;54;Entry 2;Ate breakfast with Granny at the time of the BullSec attack;Завтракала с Бабулей во время нападения БулСека
+item;54;Entry 1;Granny's daughter;Дочь Бабули
+item;54;Entry 3;Work uniform: purple dress, feather boa;Форма: фиолетовое платье, боа из перьев
+item;54;Entry 6;Was an escortess in the Inferno;Была эскортницей в Инферно
+item;54;Entry 8;Fell from Inferno railing into the sludges. They never found her body.;Упала с перил Инферно в шлам. Тело так и не нашли.
+item;54;Entry 10;Wore a genuine Jasmine perfume;Пользовалась настоящими духами «Жасмин»
+item;54;Entry 5;Died two decimal years ago;Умерла два десятичных года назад
+item;54;Entry 7;Rose Witnessed the BullSec ;Роза видела БулСек
+item;54;Entry 9;Designed escortess purple uniforms;Придумала фиолетовую форму эскортниц
+item;56;Name;Tasks/Gun;Задачи/Пушка
+item;56;Entry 1;Spill blood for the 'Blood-Bond';Пролить кровь ради «Кровной связи»
+item;58;Name;Tasks/BullSec;Задачи/БулСек
+item;58;Entry 4;Why are they not still alive;Почему они всё ещё не живы
+item;58;Entry 2;Find out what happened to them;Выяснить, что с ними случилось
+item;58;Entry 3;Visit the scene of Impalement at the Tresh Corner;Посетить место казни на Свалке
+item;58;Entry 6;Why did they return to Tresh after the arrest?;Зачем они вернулись на Свалку после ареста?
+item;58;Entry 8;Question Preacher;Допросить Проповедника
+item;58;Entry 12;Take the hand to Dzo;Отнести руку Дзо
+item;58;Entry 10;Question Kriv;Допросить Крива
+item;58;Entry 5;Find the missing arm;Найти пропавшую руку
+item;58;Entry 7;Who impaled the BullSec investigators;Кто посадил на кол следователей БулСека
+item;58;Entry 9;Question Viktii's Boys;Допросить парней Викти
+item;58;Entry 11;Find what to do with the BullSec hand;Решить, что делать с рукой БулСека
+item;58;Entry 13;Get the arm from the Butcher;Забрать руку у Мясника
+item;59;Name;Clues/BullSec;Улики/БулСек
+item;59;Group;Clues;Улики
+item;59;Entry 4;Impaled by Viktii's Boys;Посажены на кол парнями Викти
+item;59;Entry 2;They were dead before they were impaled;Они были мертвы до того, как их посадили на кол
+item;59;Entry 1;09:10 - Sent by D;09:10 — отправлено Д.
+item;59;Entry 3;One is missing a cybernetic arm;У одного не хватает кибернетической руки
+item;59;Entry 6;00:36 - Registered Lucy's NIN IP;00:36 — зарегистрирован НИН-IP Люси
+item;59;Entry 8;00:63 - Last registered NIN IP was Kitty's;00:63 — последний зарегистрированный НИН-IP принадлежал Китти
+item;59;Entry 12;NIN and electricity blackout prior incident;Перед инцидентом — отключение НИН и электричества
+item;59;Entry 10;00:75 - Viktii's Boys close off the Fast Food Plateau;00:75 — парни Викти перекрывают Фастфудное плато
+item;59;Entry 5;00:08 - Hacked Inferno's logs;00:08 — взломаны логи Инферно
+item;59;Entry 7;00:36 - Arrested Lucy;00:36 — Люси арестована
+item;59;Entry 9;Their NINs were burned down by a "destructive malware";Их НИНы сожгла деструктивная малварь
+item;59;Entry 11;Burning wire and meat prior incident;Перед инцидентом — запах жжёной проводки и мяса
+item;59;Entry 13;Incident happened at 00:65;Инцидент случился в 00:65
+item;61;Name;Clues/Lucy's Friends;Улики/Друзья Люси
+item;61;Entry 1;Returned intoxicated at 00.21;Вернулась пьяной в 00:21
+item;62;Name;Tasks/Puck;Задачи/Пук
+item;62;Entry 4;Find Puck's apartment around Flats: CoffeeINN;Найти квартиру Пака в Кварталах у КофеИНН
+item;62;Entry 2;Find Goodfellow;Найти Гудфеллоу
+item;62;Entry 1;Ask around CoffeeINN, Flats;Расспросить в КофеИНН и Кварталах
+item;62;Entry 6;Find a charger for the Cat in Puck's apartment;Найти зарядку для Кота в квартире Пака
+item;62;Entry 8;Find his old Inferno pass cartridge;Найти его старый картридж-пропуск в Инферно
+item;62;Entry 10;Buy Pet Bion 6.35 charger at trafika;Купить зарядку для Пет-Бион 6.35 в Трафике
+item;62;Entry 5;Turn on the Cat in Puck's apartment;Включить Кота в квартире Пака
+item;62;Entry 7;Investigate Puck's apartment in Corridor 88-990;Осмотреть квартиру Пака в Коридоре 88-990
+item;62;Entry 9;Report to Puck;Доложить Паку
+item;63;Name;Clues/Puck;Улики/Пук
+item;63;Entry 4;Possibly skinny, average height, wears a fedora;Возможно, худой, среднего роста, носит федору
+item;63;Entry 14;Puck is not involved in any gang business;Пак не связан с делами банд
+item;63;Entry 2;Call themselves 'indie' guides;Называют себя «независимыми» проводниками
+item;63;Entry 1;One of the fancy guides.;Один из модных проводников.
+item;63;Entry 3;Takes Uppers to Den of Temptations in Inferno;Возит Верхних в Логово соблазнов в Инферно
+item;63;Entry 8;Left Inferno with Kitty at 00:45;Ушла из Инферно с Китти в 00:45
+item;63;Entry 12;Puck's father's mind is transfered to a pet bion body;Сознание отца Пака перенесено в тело пет-биона
+item;63;Entry 10;Picked up Kitty from the Tresh before the impaling started (00:65);Забрал Китти со Свалки до того, как начали сажать на кол (00:65)
+item;63;Entry 16;Decent Guy;Приличный парень
+item;63;Entry 18;Well-Dressed Man;Хорошо одетый мужчина
+item;63;Entry 5;Mali Cvet calls Puck Goodfellow;Мали Цвет зовёт Пака Гудфеллоу
+item;63;Entry 7;His dad Kriv was in Big Daddy's gang, got injured;Его отец Крив был в банде Большого Папочки и пострадал
+item;63;Entry 9;Mila saw him in the crowd at Tresh, before the impaling started;Мила видела его в толпе на Свалке до того, как начали сажать на кол
+item;63;Entry 11;Packed up the necessities from his apartment;Собрал необходимое в своей квартире
+item;63;Entry 13;Didn't put Kriv's batteries to recharge;Не поставил батареи Крива на зарядку
+item;63;Entry 15;Lived with his sister;Жил с сестрой
+item;63;Entry 17;Has Debts;Есть долги
+item;63;Entry 19;Brought a woman home this morning;Сегодня утром привёл женщину домой
+item;63;Entry 20;Returned to Inferno with Kitty at 4:33;Вернулась в Инферно с Китти в 4:33
+item;65;Name;Tasks/Mali Cvet;Задачи/Мали Цвет
+item;65;Entry 4;Find the missing handle for the arcade machine;Найти пропавшую рукоятку от игрового автомата
+item;65;Entry 2;Nobody knows Goodfellow;Никто не знает Гудфеллоу
+item;65;Entry 1;Talk to the creep in the corner of Metro Station;Поговорить с типом в углу станции метро
+item;65;Entry 3;Where did Goodfellow take them;Куда Гудфеллоу их увёл
+item;65;Entry 6;Give Lucy’s photo to Mali Cvet;Отдать фото Люси Мали Цвету
+item;65;Entry 8;Take Hacked License to Mali Cvet;Отнести взломанную лицензию Мали Цвету
+item;65;Entry 5;Ask for Goodfellow description;Спросить описание Гудфеллоу
+item;65;Entry 7;Mali Cvet NIN Pass;НИН-пропуск Мали Цвета
+item;65;Entry 9;Slay Jalani;Уничтожить Джалани
+item;66;Name;Clues/Mali Cvet;Улики/Мали Цвет
+item;66;Entry 4;Fought a war against Jalani;Воевал против Джалани
+item;66;Entry 2;'Archived' a guide;«Архивировал» гида
+item;66;Entry 1;Mixes names;Путает имена
+item;66;Entry 3;'Archived' Harry Maylie 621 days ago;«Архивировал» Гарри Мэйли 621 день назад
+item;66;Entry 6;Someone tortured him;Его кто-то пытал
+item;66;Entry 5;He is from the Underworld;Он из Нижнего мира
+item;66;Entry 7;Wants to be a freelance guide;Хочет стать свободным проводником
+item;67;Name;Tasks/Granny;Задачи/Старуха
+item;67;Entry 4;If Granny Witnessed BullSec Raid;Видела ли Бабуля рейд БулСека
+item;67;Entry 2;Did granny mistake her daugher for Kitty;Приняла ли Бабуля дочь за Китти
+item;67;Entry 1;What's up with the Granny?;Что не так с Бабулей?
+item;67;Entry 3;Ask about Granny's daughter.;Спросить про дочь Бабули
+item;68;Name;Clues/Granny;Улики/Старуха
+item;68;Entry 2;Ate breakfast with Kitty;Завтракала с Китти
+item;68;Entry 1;Hearing-impaired;Туговата на слух
+item;69;Name;Tasks/Preacher;Задачи/Проповедник
+item;69;Entry 2;Find Baths;Найти Бани
+item;70;Name;Clues/Preacher;Улики/Проповедник
+item;70;Entry 4;Not fond of Diesel and Greshka;Не любит Дизеля и Грешку
+item;70;Entry 2;Cleared himself of Tech;Снял с себя обвинение по технике
+item;70;Entry 1;Three fences is his favorite poem;«Три забора» — его любимое стихотворение
+item;70;Entry 3;Big Daddy techie;Технарь Большого Папочки
+item;70;Entry 5;Viktii admires his manipulative skills;Викти восхищается его даром манипуляции
+item;71;Name;Tasks/Kriv;Задачи/Крив
+item;71;Entry 2;Ask Kriv for the keys to his Taxi;Попросить у Крива ключи от его такси
+item;71;Entry 1;Find Puck;Найти Пака
+item;72;Name;Clues/Kriv;Улики/Крив
+item;72;Entry 1;Stuck inside a Cat Bion;Застрял в теле Кот-биона
+item;73;Name;Tasks/Viktii's Boys;Задачи/Парни Викти
+item;73;Entry 1;- find Viktii's Boys;— найти парней Викти
+item;74;Name;Clues/Viktii's Boys;Улики/Парни Викти
+item;74;Entry 2;Appointed Muscles;Приставлен Мускул
+item;74;Entry 1;Impaled BullSecs;Посаженные на кол БулСеки
+item;74;Entry 3;Ex Big Daddiy brutes, now controlled by Chenkiis;Бывшие головорезы Большого Папочки, теперь под Ченки
+item;84;Name;Clues/Kitty;Улики/Китти
+item;84;Entry 2;Rose's best friend;Лучшая подруга Розы
+item;84;Entry 1;Left Inferno at 00:40 and disappeared;Ушла из Инферно в 00:40 и исчезла
+item;84;Entry 3;Had to run from Zina;Пришлось бежать от Зины
+item;85;Name;Tasks/Kitty;Задачи/Китти
+item;85;Entry 2;Discover Kitty's current location;Выяснить, где сейчас Китти
+item;85;Entry 1;Find and question Kitty;Найти и допросить Китти
+item;85;Entry 3;Check if she's at Kazan;Проверить, не в Казане ли она
+item;86;Name;Clues/Inferno;Улики/Инферно
+item;86;Entry 4;The outage was caused by a violent null-zone shockwave;Отключение вызвано мощной ударной волной из нулевой зоны
+item;86;Entry 2;Inferno under lockdown;Инферно перекрыт
+item;86;Entry 1;You need a registered guide, NIN pass, or a cartridge to enter;Для входа нужен зарегистрированный проводник, НИН-пропуск или картридж
+item;86;Entry 3;Worm is the best drug in the Inferno;«Червь» — лучший наркотик в Инферно
+item;86;Entry 6;Worm is a drug from the Underworld;«Червь» — наркотик из Нижнего мира
+item;86;Entry 5;The null zone is slowly subsiding;Нулевая зона постепенно затихает
+item;86;Entry 7;Worm lets you relive 5 years of someone's life;«Червь» даёт прожить 5 лет чужой жизни
+item;87;Name;Tasks/Inferno;Задачи/Инферно
+item;87;Entry 4;Hack Puck’s licence;Взломать лицензию Пака
+item;87;Entry 14;Drive the taxi into the Inferno VIP;Въехать на такси в ВИП Инферно
+item;87;Entry 2;Find a guide to enter the Inferno;Найти проводника, чтобы попасть в Инферно
+item;87;Entry 1;Find a way to enter Inferno;Найти способ попасть в Инферно
+item;87;Entry 3;Find a guide licence for Mali Cvet;Найти лицензию проводника для Мали Цвета
+item;87;Entry 6;Enter Inferno with Mali Cvet;Войти в Инферно с Мали Цветом
+item;87;Entry 8;Hack the used licence;Взломать б/у лицензию
+item;87;Entry 12;Ask kriv about his key to the taxi;Спросить Крива, где ключ от такси
+item;87;Entry 10;Find a manual car to crash into Inferno VIP;Найти машину с ручным управлением, чтобы протаранить ВИП Инферно
+item;87;Entry 5;Take hacked licence to Mali Cvet;Отнести взломанную лицензию Мали Цвету
+item;87;Entry 7;Find a used licence cartridge;Найти б/у картридж лицензии
+item;87;Entry 9;Tell Mali Cvet about his renewed licence;Сообщить Мали Цвету о продлённой лицензии
+item;87;Entry 11;Find a key for the taxi;Найти ключ от такси
+item;87;Entry 13;Get the key to Kriv's car from Buzz;Взять ключ от машины Крива у Базза
+item;88;Name;Hidden/Puck Apartment;Скрытое/Квартира Пука
+item;88;Description;don't translate;не переводить
+item;88;Entry 2;Check bunk beds;Проверить нары
+item;88;Entry 1;Check the wardrobe;Проверить шкаф
+item;88;Entry 3;Open the door to Puck's Apartment;Открыть дверь в квартиру Пука
+item;90;Name;Tasks/Dzo;Задачи/Дзо
+item;90;Entry 4;Someone is hunting Dzo's bion connection;Кто-то охотится за бион-подключением Дзо
+item;90;Entry 14;Tell Dzo about Palers ;Рассказать Дзо о Пейлерах
+item;90;Entry 2;Check the Shockwaved Rooms;Проверить комнаты, задетые ударной волной
+item;90;Entry 1;Return to Dzo later about the hand;Позже вернуться к Дзо насчёт руки
+item;90;Entry 3;Is Dzo’s tech cult affected?;Пострадал ли техно-культ Дзо?
+item;90;Entry 6;Try to help dzo;Попробовать помочь Дзо
+item;90;Entry 8;Bring a Chenkii to Cauldron;Привести Ченки к Котлу
+item;90;Entry 12;Ask Chenkiis about the server room;Спросить Ченки про серверную
+item;90;Entry 16;Find the server room;Найти серверную
+item;90;Entry 5;Talk Dzo back out of Jalani Business;Отговорить Дзо от дел с Джалани
+item;90;Entry 7;Save Dzo from Jalani;Спасти Дзо от Джалани
+item;90;Entry 9;Disrupt Viktii's Boys;Сорвать планы парней Викти
+item;90;Entry 11;Ask Preacher how to sabotage Dzo;Спросить Проповедника, как саботировать Дзо
+item;90;Entry 13;Return to the Cauldron;Вернуться к Котлу
+item;90;Entry 15;Report about the Incident Room;Доложить о комнате инцидента
+item;90;Entry 17;Tell Zina about the backup;Рассказать Зине о резервной копии
+item;96;Name;Clues/Dzo;Улики/Дзо
+item;96;Entry 2;Has nervous implants;Имеет импланты нервной системы
+item;96;Entry 1;Lives in a techie commune;Живёт в коммуне технарей
+item;96;Entry 3;Has a backup of Jalani;У него есть резервная копия Джалани
+item;92;Name;Cracked Guide Licence;Взломанная лицензия гида
+item;106;Name;Used Guide License;Использованная лицензия гида
+item;95;Name;Keys to Puck's apartment;Ключи от квартиры Пука
+item;98;Name;Nana's Black Scarf;Чёрный шарф бабули
+item;101;Name;Box of Tobaccas;Коробка табака
+item;103;Name;Tasks/Buzz;Задачи/Базз
+item;103;Entry 1;Get the keys to Kriv's car;Взять ключи от машины Крива
+item;104;Name;Taxi Keys;Ключи от такси
+item;111;Name;Tasks/Baths;Задачи/Бани
+item;111;Entry 2;Find a guide in Praeludium, beyond the Cauldron;Найти проводника в Прелюдиуме, за Котлом
+item;113;Name;Clues/Incident Room;Улики/Комната происшествия
+item;113;Entry 4;Someone survived the incident;Кто-то выжил в этом инциденте
+item;113;Entry 2;Someone was presented on a strange cyber-chair;Кого-то показывали на странном кибер-кресле
+item;113;Entry 1;Mutilated bodies’ heads and spines exploded, all augs fried;У изуродованных тел взорвались головы и позвоночники, все аугментации сгорели
+item;113;Entry 3;Someone was presented on a Bion upload chair;Кого-то показывали на кресле загрузки биона
+item;113;Entry 6;All tech fried;Вся техника сгорела
+item;113;Entry 8;Survivor's tracks lost at cauldron;Следы выжившей потерялись у Котла
+item;113;Entry 5;Survivor was probably female;Выжившая, скорее всего, женщина
+item;113;Entry 7;Blood is dark blue hue;Кровь тёмно-синего оттенка
+item;113;Entry 9;Victims were Palers;Жертвы — Палеры
+item;114;Name;Tasks/Incident Room;Задачи/Комната происшествия
+item;114;Entry 2;Was Dzo here!?;Дзо был здесь?!
+item;114;Entry 1;Did the victims have nervous system augs?;Были ли у жертв аугментации нервной системы?
+item;114;Entry 3;Follow the bloody tracks;Идти по кровавому следу
+item;115;Name;Hidden/Incident Room;Скрытое/Комната происшествия
+item;115;Entry 4;Bloody Tracks;Кровавые следы
+item;115;Entry 2;Chair;Кресло
+item;115;Entry 1;Mutilated bodies;Изуродованные тела
+item;115;Entry 3;Fried terminals;Сгоревшие терминалы
+item;115;Entry 5;blood color;цвет крови
+item;117;Name;Worm;Червь
+item;118;Name;Hidden/viktii knows;Скрытое/Викти знает
+item;118;Entry 4;blood is dark blue;кровь тёмно-синяя
+item;118;Entry 14;about cult;о культе
+item;118;Entry 2;someone in bion chair;кто-то в кресле биона
+item;118;Entry 1;mutilated bodies;изувеченные тела
+item;118;Entry 3;survivor;выжившая
+item;118;Entry 6;survivor female;выжившая женщина
+item;118;Entry 8;L nin jailbreaker;Л — взломщица НИН
+item;118;Entry 12;Z wants to revive Jalani;З хочет оживить Джалани
+item;118;Entry 10;Z sent C to incident room;З отправила К в комнату происшествия
+item;118;Entry 16;looking for server room;ищет серверную
+item;118;Entry 18;Puck let C out;Пук выпустил К
+item;118;Entry 5;tracks lost at cauldron;следы теряются у котла
+item;118;Entry 7;L taken by force;Л забрали силой
+item;118;Entry 9;L took worm;Л приняла червя
+item;118;Entry 11;preacher visited incident;Проповедник был на месте происшествия
+item;118;Entry 13;about Dzo;о Дзо
+item;118;Entry 15;jalani backup;резервная копия Джалани
+item;118;Entry 17;Zina let C out;Зина выпустила К
+item;118;Entry 19;searching for upper girl;ищет верхнюю девушку
+item;118;Entry 20;where baths is;где находятся Бани
+item;118;Entry 21;looking for paler;ищет пейлера
+item;120;Name;Hidden/zina knows;Скрытое/Зина знает
+item;120;Entry 1;incident room;Комната инцидента
+item;120;Entry 10;V wants to revive Jalani;В хочет оживить Джалани
+item;120;Entry 16;V sent to investigate;В отправил на разведку
+item;120;Entry 7;worms;черви
+item;120;Entry 15;reported to V;доложил В
+item;121;Name;Clues/Jalani;Улики/Джалани
+item;121;Entry 2;Devours Bion imprints;Пожирает бион-отпечатки
+item;121;Entry 1;Jalani is fried;Джалани сгорел
+item;122;Name;Clues/Palers;Улики/Пейлеры
+item;122;Entry 4;Storage for Jalani;Хранилище для Джалани
+item;122;Entry 2;Copper-based blood system;Кровеносная система на медной основе
+item;122;Entry 1;Chenkiis are Palers;Ченки — это Палеры
+item;122;Entry 3;Blue blood;Синяя кровь
+item;122;Entry 6;Underworld race;Раса Нижнего мира
+item;122;Entry 5;See, feel, control data flow with natural senses;Видеть, чувствовать и управлять потоком данных обычными чувствами
+item;123;Name;Puck's Used License;Использованная лицензия Пука
+item;125;Name;VBoys disruptor;Дезинтегратор парней Викти
+item;126;Name;Viktii's bombs;Бомбы Викти
+item;127;Name;Dzo's memento;Сувенир Дзо
+item;128;Name;Lucy's Head;Голова Люси
+item;129;Name;D's Bionization gadget;Гаджет бионизации Д
+item;130;Name;Puck's Fedora;Федора Пука
+item;131;Name;Hidden/Tips;Скрытое/Подсказки
+item;131;Entry 4;personality combo;комбинация личности
+item;131;Entry 2;past relationships;прошлые отношения
+item;131;Entry 1;evaluating personality;оценка личности
+item;131;Entry 3;conversant mood;настроение собеседника
+item;131;Entry 5;journal;журнал
+item;132;Name;Talks/D;Разговоры/Д
+item;132;Entry 2;one thing;одна вещь
+item;132;Entry 1;Arcology;Аркология
+item;133;Name;Talks/A1;Разговоры/A1
+item;133;Entry 4;Guza > bootleg licence;Гуза > пиратская лицензия
+item;133;Entry 14;butch > charg;мясник > зарядка
+item;133;Entry 2;Guza > Puck;Гуза > Пук
+item;133;Entry 1;Guza > GFellow;Гуза > Гудфеллоу
+item;133;Entry 3;Guza > Guide;Гуза > Гид
+item;133;Entry 6;Umbrella > showed photo;Зонт > показал фото
+item;133;Entry 8;Malt > Kriv;Молт > Крив
+item;133;Entry 12;butch > keys;мясник > ключи
+item;133;Entry 10;Jim > GFellow;Джим > Гудфеллоу
+item;133;Entry 16;lipstic > smell;помада > запах
+item;133;Entry 18;granny > lucy;старуха > Люси
+item;133;Entry 5;Umbrella > GF no description;Зонт > Гудфеллоу без описания
+item;133;Entry 7;Umbrella > scored;Зонт > засчитано
+item;133;Entry 9;Malt > Kriv Cat;Молт > Крив Кот
+item;133;Entry 11;CC > hand;ЧЧ > рука
+item;133;Entry 13;butch > gfello;мясник > гудфеллоу
+item;133;Entry 15;butch > licenc;мясник > лицензия
+item;133;Entry 17;lipstic > open;помада > открыть
+item;133;Entry 19;granny > Kitty not rose;старуха > Китти, не Роуз
+item;133;Entry 20;malt > GFellow;молт > Гудфеллоу
+item;133;Entry 21;Guza > describe;Гуза > описать
+item;133;Entry 22;mila > puck;мила > пук
+item;133;Entry 23;kriv > inferno;крив > инферно
+item;134;Name;Talks/Dzo;Разговоры/Дзо
+item;134;Entry 4;bullsec;булсек
+item;134;Entry 2;rose;роуз
+item;134;Entry 1;lucy;люси
+item;134;Entry 3;puck;пук
+item;134;Entry 6;hack licence;взломать лицензию
+item;134;Entry 5;find licence;найти лицензию
+item;134;Entry 7;hack MC;взломать МЦ
+item;135;Name;achievements;достижения
+item;135;Entry 1;first steps;первые шаги
+item;136;Name;A handgun;Пистолет
+item;137;Name;Bullets;Пули
+item;138;Name;A coin;Монета
+loc;1;Name;Cooper's Office;Офис Купера
+loc;5;Name;Scray;Скрей
+loc;3;Name;Metro;Метро
+loc;2;Name;Inferno;Инферно
+loc;8;Name;Inferno VIP;VIP Инферно
+loc;8;Display Name;Inferno: VIP;Инферно: VIP
+loc;4;Name;Tresh Corner;Свалка
+loc;6;Name;Flats;Многоэтажки
+loc;9;Name;Puck's apartment;Квартира Пука
+loc;7;Name;Baths;Бани
+loc;10;Name;CoffeeINN;КофеИНН
+loc;12;Name;Flats: Corridor 88-990;Многоэтажки: Коридор 88-990
+loc;13;Name;Puck's Apartment;Квартира Пука
+loc;14;Name;Inferno: Praeludium;Инферно: Прелюдия
+loc;15;Name;Inferno: Kazan;Инферно: Казан
+loc;17;Name;A2/Lucy Room;A2/Комната Люси
+loc;17;Display Name;Lucy Room;Комната Люси
+loc;18;Name;A2/Incident Room;A2/Комната происшествия
+loc;18;Display Name;Incident Room;Комната происшествия
+loc;19;Name;A2/Cauldron;A2/Котёл
+loc;19;Display Name;Cauldron;Котёл
+loc;20;Name;A2/Penthouse;A2/Пентхаус
+loc;20;Display Name;Viktii's Penthouse;Пентхаус Викти
+loc;21;Name;A2/Praeludium;A2/Прелюдия
+loc;21;Display Name;Praeludium;Прелюдия
+loc;22;Name;A2/Baths;A2/Бани
+loc;23;Name;A2/VIP;A2/VIP
+loc;23;Display Name;VIP;VIP
+actor;7;Name;Inferno Bodyguards;Телохранители Инферно
+actor;8;Display Name;gangers;бандиты
+actor;13;Display Name;the gold-plated man;золочёный мужчина
+actor;19;Name;Fashion woman;Модная женщина
+actor;23;Name;Carmen PC;Кармен
+actor;24;Name;Cooper NPC;Купер NPC
+actor;41;Name;Metro/Mali Cvet;Метро/Мали Цвет
+actor;34;Name;Uppers/Bullsec;Верхние/БулСек
+actor;39;Name;Opinions/Bions;Мнения/Бионы
+item;38;Name;Kitty's photo;Фото Китти
+item;6;Name;Cash stick;Денежная флешка
+item;6;Description;A cash stick with unlimited allowance.;Денежная флешка с неограниченным лимитом.
+item;27;Name;Inferno one night token;Жетон в Инферно на одну ночь
+item;27;Description;A token that lets you enter Inferno for one night;Жетон, дающий вход в Инферно на одну ночь
+item;28;Name;Inferno Logs;Журналы Инферно
+item;33;Name;Cyber Investigator's scan log;Журнал сканирования киберследователя
+item;32;Name;Cyber Investigator's hand;Рука киберследователя
+item;30;Name;Jasmine scented feather boa;Перьевой боа с ароматом жасмина
+item;25;Name;Zina's approval to question Mila;Разрешение Зины допросить Милу
+item;26;Name;Viktii's Boys interview approval;Разрешение парней Викти на разговор
+item;12;Name;Contacts/D;Контакты/Д
+item;13;Name;Contacts/Puck;Контакты/Пук
+item;4;Name;Contacts/Lucy's friends;Контакты/Друзья Люси
+item;34;Name;NIN IP/Lucy's group;НИН-IP/Группа Люси
+item;35;Name;NIN IP/Cyber Investigators;НИН-IP/Киберследователи
+item;36;Name;NIN IP/Kitty;НИН-IP/Китти
+item;37;Name;NIN IP/Lucy;НИН-IP/Люси
+item;41;Name;Bion charger;Зарядка для биона
+item;5;Name;Tasks/Find the missing girl;Задачи/Найти пропавшую девушку
+item;5;Description;I need to trace back Lucy's steps;Мне нужно проследить путь Люси
+item;5;Display Name;What happened to Lucy;Что случилось с Люси
+item;5;Entry 4;- Call Lucy's friends from a PayNIN;- Позвонить друзьям Люси с ПейНИНа
+item;5;Entry 14;- Question the Chenki Muscles;- Расспросить ченки-вышибал
+item;5;Entry 2;- Investigate the Metro Station;- Осмотреть станцию метро
+item;5;Entry 1;- Get Lucy's friends' NIN numbers;- Достать НИН-номера друзей Люси
+item;5;Entry 6;- Call Puck;- Позвонить Пуку
+item;5;Entry 8;- Why don't they remember anything?;- Почему они ничего не помнят?
+item;5;Entry 12;- Find the Chenki Muscles who escorted Lucy's friends to the Metro;- Найти ченки-вышибал, которые проводили друзей Люси до метро
+item;5;Entry 16;- What happened to Lucy after they left Inferno?;- Что случилось с Люси после того, как они ушли из Инферно?
+item;5;Entry 18;- Were Lucy's friends on Metro around 00:30?;- Были ли друзья Люси в метро около 00:30?
+item;5;Entry 22;- Get Lucy's current location;- Узнать текущее местоположение Люси
+item;5;Entry 24;- Get Kitty's current location;- Узнать текущее местоположение Китти
+item;5;Entry 20;- Where is Jim's first shift, Mila?;- Где первая смена Джима, Мила?
+item;8;Name;Tasks/Find Lucy's Guide;Задачи/Найти гида Люси
+item;8;Entry 11;- Find where Puck lives;- Найти, где живёт Пук
+item;8;Display Name;Find Lucy's Guide;Найти гида Люси
+item;8;Entry 13;- Investigate Puck's apartment;- Осмотреть квартиру Пука
+item;8;Entry 15;- Turn on the Cat;- Включить Кота
+item;8;Entry 5;- Find Puck;- Найти Пука
+item;8;Entry 3;- Find Goodfellow;- Найти Гудфеллоу
+item;8;Entry 7;- Find if someone knows Puck;- Выяснить, знает ли кто-нибудь Пука
+item;8;Entry 1;- Investigate 'Fancy Guides';- Проверить «Модных гидов»
+item;8;Entry 9;- Ask around CoffeeINN;- Порасспрашивать в КофеИННе
+item;7;Name;Tasks/Investigate BullSec Investigators;Задачи/Расследовать киберследователей БулСека
+item;7;Entry 10;- Who did this?;- Кто это сделал?
+item;7;Entry 12;- Question Preacher;- Расспросить Проповедника
+item;7;Entry 14;- Question Viktii's Boys;- Расспросить парней Викти
+item;7;Entry 8;- Were they alive?;- Были ли они живы?
+item;7;Display Name;Investigate Cyber Investigators;Расследовать киберследователей
+item;7;Entry 6;- Check out the "Impaled Cyber Investigators;- Осмотреть «Посаженных на кол киберследователей»
+item;7;Entry 2;- Find what happened to BullSec Investigators;- Выяснить, что случилось с киберследователями БулСека
+item;7;Entry 24;- Where did they take Lucy?;- Куда они увели Люси?
+item;7;Entry 26;- Why did they return to scan FFP?;- Зачем они вернулись сканировать ПБП?
+item;7;Entry 28;- Question Kitty;- Расспросить Китти
+item;7;Entry 16;- Question Kriv;- Расспросить Крива
+item;7;Entry 20;- Find Cyber Investigator's NIN IPs;- Найти НИН-IP киберследователей
+item;7;Entry 22;- Find Cyber Investigator's cyber hand;- Найти кибер-руку киберследователя
+item;7;Entry 18;- Question Mila;- Расспросить Милу
+item;16;Name;Tasks/Investigate Inferno;Задачи/Расследовать Инферно
+item;16;Entry 9;- Meet Mali Cvet at the entrance to the Inferno.;- Встретиться с Мали Цвет у входа в Инферно.
+item;16;Display Name;Investigate Inferno;Расследовать Инферно
+item;16;Entry 3;- Find a way to enter the Inferno's VIP dancefloor;- Найти способ попасть на VIP-танцпол Инферно
+item;16;Entry 7;- Access the Inferno's guest logs;- Получить доступ к журналам гостей Инферно
+item;16;Entry 13;- Question the staff;- Расспросить персонал
+item;16;Entry 17;- Enter the VIP;- Пройти в VIP
+item;16;Entry 1;- Ask around the Inferno;- Порасспрашивать в Инферно
+item;16;Entry 11;- Meet Dimwit at the entrance to the Inferno;- Встретиться с Балбесом у входа в Инферно
+item;16;Entry 19;- Find a way to decypher the logs;- Найти способ расшифровать журналы
+item;16;Entry 5;- Inferno VIP dancefloor cartridges;- Картриджи с VIP-танцпола Инферно
+item;18;Name;Tasks/Find Rose;Задачи/Найти Роуз
+item;18;Description;Granny's daughter had breakfast with her this morning, before BullSecs were impaled. Maybe she saw something or someone.;Дочь старухи завтракала с ней этим утром, до того как БулСеков посадили на кол. Может, она что-то или кого-то видела.
+item;18;Entry 2;- Ask about granny's daughter;- Расспросить о дочери старухи
+item;18;Entry 6;- Find who's Jim's second shift.;- Выяснить, кто у Джима во второй смене.
+item;18;Display Name;Investigate granny's daughter;Расследовать дочь старухи
+item;18;Entry 12;- Is Rose a bion?;- Роуз — бион?
+item;18;Entry 4;- Why did Jim call her a whore?;- Почему Джим назвал её шлюхой?
+item;18;Entry 8;- Find Jim's morning shift, Mila;- Найти утреннюю смену Джима, Милу
+item;18;Entry 14;- Did granny mistake her daugher for Kitty;- Не спутала ли старуха дочь с Китти
+item;18;Entry 16;- Confront Preacher about the feather boa;- Предъявить Проповеднику перьевой боа
+item;18;Entry 10;- Ask Mila about last night;- Расспросить Милу о прошлой ночи
+item;19;Name;Tasks/Side Hustles;Задачи/Подработки
+item;19;Display Name;Side Hustles;Подработки
+item;19;Entry 1;- Get more rakija from The Scray;- Взять ещё ракии в Скрее
+item;19;Entry 3;- Spill some blood for the Blood Bond;- Пролить немного крови за Кровный союз
+item;19;Entry 4;- Have a drink;- Выпить
+item;19;Entry 5;- Open the door;- Открыть дверь
+item;39;Name;Tasks/Jim's errand;Задачи/Поручение Джима
+item;39;Display Name;Jim's errand;Поручение Джима
+item;46;Name;Tasks/Things to check;Задачи/Что проверить
+item;46;Display Name;Things to check;Что проверить
+item;46;Entry 1;Fancy guides;Модные гиды
+item;46;Entry 4;what's up with the Granny?;что со старухой?
+item;46;Entry 5;Find Granny's daughter Rose;Найти дочь старухи Роуз
+item;2;Name;Investigations/Find the missing girl;Расследования/Найти пропавшую девушку
+item;2;Description;A mysterious woman came into my office and gave me this job.;Таинственная женщина вошла в мой офис и дала мне это дело.
+item;2;Entry 4;- Last ping with Arcology at 08:45;- Последний пинг с Аркологией в 08:45
+item;2;Entry 6;- Came with friends by a metro train.;- Приехала с друзьями на метро.
+item;2;Entry 14;- Went to Inferno;- Отправилась в Инферно
+item;2;Group;Investigations;Расследования
+item;2;Entry 28;- 00:30 - Chenki Muscles escorted Lucy and friends to the Metro Train;- 00:30 - Ченки-вышибалы проводили Люси и друзей до поезда метро
+item;2;Entry 16;- 08:75 - Entered Inferno;- 08:75 - Вошла в Инферно
+item;2;Entry 20;- 00:00 - Took the worm;- 00:00 - Приняла червя
+item;2;Entry 26;- Puck arranged escort for Lucy and her friends to the metro;- Пук договорился о сопровождении Люси и её друзей до метро
+item;2;Entry 18;- Was in the Inferno VIP areas;- Была в VIP-зонах Инферно
+item;2;Entry 24;- 00:24 - Left Inferno;- 00:24 - Ушла из Инферно
+item;2;Entry 34;- 00:36 Lucy's friends reconnect with Arcology without her;- 00:36 Друзья Люси связываются с Аркологией без неё
+item;2;Entry 30;- Lucy was arrested by Cyber Investigators;- Люси арестовали киберследователи
+item;2;Entry 8;- Lucy bought a perfume from Guza at the Metro Station\n- Doesn't remember which one\n- Last bottle;- Люси купила у Гузы на станции метро духи\n- Не помнит, какие именно\n- Последний флакон
+item;2;Entry 12;- Puck was her guide;- Пук был её гидом
+item;2;Entry 36;- 00:88 Had a "victory" tattoograph at Butchers;- 00:88 Сделала «победную» татуировку у Мясников
+item;2;Entry 32;- Lucy never returned to Metro Station;- Люси так и не вернулась на станцию метро
+item;20;Name;Investigations/Lucy's Guide;Расследования/Гид Люси
+item;20;Entry 22;- 00:30 - Left Inferno shortly after half past reset;- 00:30 - Ушёл из Инферно вскоре после половины первого
+item;20;Entry 26;- Mila saw him on the FFP in the commotion before the Impaling started;- Мила видела его на ПБП в суматохе перед началом казни
+item;20;Entry 28;- Picked up Kitty from the FFP when the impaling started (00:65);- Забрал Китти с ПБП, когда началась казнь (00:65)
+item;20;Display Name;Lucy's guide;Гид Люси
+item;20;Entry 10;- Puck's father was in the Big Daddy's gang.\n- Haven't seen old Kriv for more than two years\n- They live somewhere near CoffeeINN, in the Flats. \n- They barely managed before Puck started working as a guide;- Отец Пука был в банде Большого Папы.\n- Старика Крива не видели больше двух лет\n- Живут где-то у КофеИННа, в Многоэтажках. \n- Еле сводили концы с концами, пока Пук не пошёл в гиды
+item;20;Entry 12;- Puck is not involved in any gang business;- Пук не замешан ни в каких бандитских делах
+item;20;Entry 16;- Puck comes to LBbb;- Пук приходит в LBbb
+item;20;Entry 18;- Mila has a crush on him;- Мила по нему сохнет
+item;20;Entry 3;- Young and pretty, chick-magnet;- Молодой и симпатичный, тянет девчонок
+item;20;Entry 14;- Puck's dad Kriv is a bion;- Отец Пука, Крив, — бион
+item;20;Entry 20;- Lazy guide, but has a VIP NIN-Pass for the Inferno;- Ленивый гид, но у него есть VIP НИН-пропуск в Инферно
+item;20;Entry 24;- 00:50 - Turned his bion father off;- 00:50 - Отключил отца-биона
+item;20;Entry 32;- Going on a trip;- Собирается в поездку
+item;20;Entry 5;- Guide's name is Goodfellow;- Гида зовут Гудфеллоу
+item;20;Entry 7;- Guide's name is Puck;- Гида зовут Пук
+item;20;Entry 1;- Fancy guide;- Модный гид
+item;20;Entry 4;-Wears some sort of hat\n-Possibly skinny, average height;-Носит какую-то шляпу\n-Возможно, худой, среднего роста
+item;20;Entry 30;- Packed up the necessities from his apartment;- Забрал необходимое из своей квартиры
+item;21;Name;Investigations/BullSec Investigators;Расследования/Киберследователи БулСека
+item;21;Entry 4;- Arrived to the Pit by a car;- Прибыли в Яму на машине
+item;21;Entry 8;- 00:08 - Hacked Inferno's logs;- 00:08 - Взломали журналы Инферно
+item;21;Entry 10;- 00:27 - Arrested Lucy;- 00:27 - Арестовали Люси
+item;21;Entry 14;- 00:66 - Last registered NIN IP;- 00:66 - Последний зарегистрированный НИН-IP
+item;21;Entry 20;- Their NINs were burned down by a destructive malware ;- Их НИНы сожгла деструктивная малварь
+item;21;Entry 16;- Last registered NIN IP was Kitty's;- Последний зарегистрированный НИН-IP принадлежал Китти
+item;21;Entry 24;- Impaled by Viktii's Boys;- Посажены на кол парнями Викти
+item;21;Entry 12;- 00:36 - Registered Lucy's NIN IP;- 00:36 - Зарегистрировали НИН-IP Люси
+item;21;Display Name;Cyber Investigators;Киберследователи
+item;21;Entry 2;- Sent by D at 9:10;- Отправлены Д в 9:10
+item;21;Entry 6;- 00:05 - Arrived to the Pit;- 00:05 - Прибыли в Яму
+item;21;Entry 18;- They were dead before they were impaled;- Они были мертвы до того, как их посадили на кол
+item;21;Entry 22;- 00:75 - Viktii's Boys close off the Fast Food Plateau;- 00:75 - Парни Викти перекрывают Плато быстрой еды
+item;21;Entry 26;- One is missing a hand;- У одного нет руки
+item;21;Entry 28;- Impaled at the Fast Food Plateau;- Посажены на кол на Плато быстрой еды
+item;21;Entry 30;- Impaled for the better publicity against Arcology authorities;- Посажены на кол ради лучшего пиара против властей Аркологии
+item;21;Entry 32;- 01:30 - Already Impaled;- 01:30 - Уже на колу
+item;22;Name;Investigations/Granny's daughter Rose;Расследования/Дочь старухи Роуз
+item;22;Entry 14;- Parfume a rich bouquet (jasmine, ylang-ylang, violet) with delicious fruit notes (peach, prune) and spices (cumin, cloves);- Духи: богатый букет (жасмин, иланг-иланг, фиалка) с лакомыми фруктовыми нотами (персик, чернослив) и специями (кумин, гвоздика)
+item;22;Entry 16;- It was not Kitty who ate soup with granny;- Суп со старухой ела не Китти
+item;22;Entry 20;- Left her "Jasmine perfumed" lipstick in Puck's apartment;- Оставила свою «жасминовую» помаду в квартире Пука
+item;22;Entry 22;- Left her "Jasmine perfumed" feather boa at Baths' coat rack;- Оставила свой «жасминовый» перьевой боа на вешалке в Банях
+item;22;Entry 6;- Died 2 years ago;- Умерла 2 года назад
+item;22;Entry 12;- Was an escortess in the Inferno;- Была эскортницей в Инферно
+item;22;Entry 8;- Fell from a railing into the sludges. They never found her.;- Упала с перил в шлам. Её так и не нашли.
+item;22;Entry 2;- Young, kind, black hair, green eyes;- Молодая, добрая, чёрные волосы, зелёные глаза
+item;22;Entry 18;- It was Kitty who ate soup with granny;- Суп со старухой ела Китти
+item;22;Entry 24;- "Kitty" is resting at Baths;- «Китти» отдыхает в Банях
+item;22;Entry 10;- Ate soup with granny early morning;- Ела суп со старухой ранним утром
+item;22;Entry 4;- Jim called her a whore;- Джим назвал её шлюхой
+item;23;Name;Investigations/Chenki Muscles;Расследования/Ченки-вышибалы
+item;23;Display Name;Chenki Muscles;Ченки-Мускул
+item;23;Entry 10;- 00:30 - Chenki Muscles rob Lucy's friends and drop them off at the metro;- 00:30 - Ченки-вышибалы обирают друзей Люси и высаживают их у метро
+item;23;Entry 6;- 00:30 - Chenki Muscles escorted Lucy's friends to the Metro Train;- 00:30 - Ченки-вышибалы проводили друзей Люси до поезда метро
+item;23;Entry 18;- 00:77 - Viktii's Boys close off the Fast Food Plateu;- 00:77 - Парни Викти перекрывают Плато быстрой еды
+item;23;Entry 8;- Chenki Muscles negotiated Lucy's arrest with the Cyber Investigators;- Ченки-вышибалы договорились об аресте Люси с киберследователями
+item;23;Entry 20;- Viktii's Boys impaled the Cyber Investigators;- Парни Викти посадили киберследователей на кол
+item;23;Entry 14;- The leftovers from the Big Daddy's infamous gang are now called Viktii's Boys;- Остатки печально известной банды Большого Папы теперь зовутся парнями Викти
+item;23;Entry 4;- People's Militia runs the security in The Pit;- Народная милиция держит охрану в Яме
+item;23;Entry 2;- Chenki Muscles are actually called The People's Militia;- Ченки-вышибалы на самом деле называются Народной милицией
+item;23;Entry 16;- One of the Big Daddy's gangsters became a "Preacher";- Один из бандитов Большого Папы стал «Проповедником»
+item;23;Entry 12;- FFP Chenki Muscles' juristiction is FFP area;- Юрисдикция ченки-вышибал ПБП — район ПБП
+item;29;Name;Investigations/Preacher;Расследования/Проповедник
+item;29;Display Name;Preacher;Проповедник
+item;29;Entry 4;- Ex Big Daddy's ganger;- Бывший бандит Большого Папы
+item;29;Entry 6;- Lost his only son;- Потерял единственного сына
+item;29;Entry 8;- Made his son a bion;- Сделал сына бионом
+item;29;Entry 10;- Had to kill the bion;- Пришлось убить биона
+item;29;Entry 14;- Runs "Let Bions be bygones";- Держит «Пусть бионы уходят»
+item;29;Entry 12;- Gave up on all tech;- Отказался от всей техники
+item;29;Entry 2;- Real name: ;- Настоящее имя: 
+item;44;Name;Will on Cooper's body;Завещание на теле Купера
+loc;11;Name;Jail;Тюрьма
+actor;46;Name;Drunk;Пьяный
+actor;51;Name;Inferno/Escortess;Инферно/Эскортница
+actor;52;Name;Inferno/Barista;Инферно/Бариста
+actor;53;Name;Inferno/Vadimir;Инферно/Вадимир
+actor;60;Name;BullSec car;Машина БулСека
+actor;68;Name;A2/Guide Mickey;A2/Гид Микки
+actor;70;Name;Mali Kultista;Мали Культиста
+actor;70;Display Name;Disfigured Cultist;Обезображенный культист
+item;81;Name;BullSec Scan Log;Журнал сканирования БулСека
+item;82;Name;Lucy's group NIN IPs;НИН-IP группы Люси
+item;47;Entry 11;Lena saw her with Puck and Kitty near Kazan.;Лена видела её с Пуком и Китти у Казана.
+item;57;Name;Clues/Gun;Улики/Пушка
+item;58;Entry 3;Visit the scene of Impalement at the Trash Corner;Посетить место казни на Свалке
+item;60;Name;Tasks/Lucy's Friends;Задачи/Друзья Люси
+item;60;Entry 1;Call Lucy's friends from a PayNIN;Позвонить друзьям Люси с ПейНИНа
+item;60;Entry 3;- Find Chenki Muscles;- Найти ченки-вышибал
+item;60;Entry 2;-Were they on Metro around 00:30?;-Были ли они в метро около 00:30?
+item;62;Entry 3;Ask Mali Cvet to describe Goodfellow;Попросить Мали Цвет описать Гудфеллоу
+item;63;Entry 6;-His aunt took care of them, but disappeared suddenly.;-Его тётя заботилась о них, но внезапно исчезла.
+item;65;Entry 9;Erradicate Jalani;Уничтожить Джалани
+item;69;Entry 1;- question Preacher;- расспросить Проповедника
+item;75;Name;Clues/Guza;Улики/Гуза
+item;75;Entry 1;-Doesn't remember the scent and name of the perfume Lucy bought, but it was quite old, and the last bottle of it;-Не помнит аромат и название духов, которые купила Люси, но они были довольно старыми, и это был последний флакон
+item;76;Name;Tasks/Guza;Задачи/Гуза
+item;78;Entry 4;Reinstall Jalani;Переустановить Джалани
+item;96;Entry 4;Palers are the server;Пейлеры — это сервер
+item;107;Name;Hacked Puck's License;Взломанная лицензия Пука
+item;91;Name;Expired Guide Licence;Просроченная лицензия гида
+item;93;Name;Tasks/Chenki Muscles;Задачи/Ченки-вышибалы
+item;94;Name;Clues/Chenki Muscles;Улики/Ченки-вышибалы
+item;94;Entry 2;Chlop has a date with Mila;У Хлопа свидание с Милой
+item;94;Entry 1;Robbed Lucy’s friends;Обобрал друзей Люси
+item;94;Entry 3;Chlop is in love with Mila;Хлоп влюблён в Милу
+item;97;Name;UpperItem;ВерхнийПредмет
+item;100;Name;Box of Spiced Up Tobaccas;Коробка пряного табака
+item;105;Name;Vextor Nyx Eclipse 3023, manual;Vextor Nyx Eclipse 3023, руководство
+item;108;Name;Tasks/SideCharacters/BullSec Car;Задачи/Второстепенные/Машина БулСека
+item;108;Entry 1;Find Credentials;Найти учётные данные
+item;109;Name;Clues/SideCharacters/BullSec Car;Улики/Второстепенные/Машина БулСека
+item;109;Entry 1;Prisoner is a female;Пленник — женщина
+item;116;Name;Lucy's tech gadget;Техно-гаджет Люси
+loc;16;Name;Dark Alley;Тёмный переулок
+item;78;Entry 8;Investigate the incident room;Осмотреть комнату инцидента
+item;78;Entry 5;Find the survivor;Найти выжившую
+item;87;Entry 15;Investigate the incident room;Осмотреть комнату инцидента
+item;90;Entry 10;Distract Zina;Отвлечь Зину
+item;111;Entry 1;Find Baths;Найти Бани
+item;114;Entry 4;Find the survivor;Найти выжившую
+item;120;Entry 4;survivor female;выжившая женщина
+item;120;Entry 14;looking for server room;ищет серверную
+item;120;Entry 2;survivor;выжившая
+item;120;Entry 3;tracks lost at cauldron;следы теряются у Котла
+item;120;Entry 6;L nin jailbreaker;Л — взломщик НИН
+item;120;Entry 8;Z sent C to incident room;З отправила Ц в комнату инцидента
+item;120;Entry 12;about cult;о культе
+item;120;Entry 5;L taken by force;Л забрали силой
+item;120;Entry 9;preacher visited incident;Проповедник был на месте инцидента
+item;120;Entry 11;about Dzo;о Дзо
+item;120;Entry 13;jalani backup;копия Джалани
+item;16;Entry 15;- Question Kitty;- Допросить Китти
+item;19;Entry 2;- Check out the "Impaled Cyber Investigators";- Проверить «Посаженных на кол киберследователей»
+item;46;Entry 3;Find Goodfellow;Найти Гудфеллоу
+actor;69;Description;Name: Nica;Имя: Ника
+actor;77;Display Name;Jalani;Джалани
+actor;29;Display Name;Buzz;Базз
+actor;30;Name;Carmen;Кармен
+actor;30;Display Name;Carmen;Кармен
+actor;49;Display Name;Cat;Кот
+actor;8;Description;Names: Chłop and Czaba;Имена: Пацан и Жаба
+actor;1;Display Name;Cooper;Купер
+actor;2;Name;D;Д
+actor;10;Display Name;Granny;Бабуля
+actor;36;Description;My old service gun. A TT-88 automatic. Black as the depths of the Underworld.;Мой старый служебный пистолет. Автоматический ТТ-88. Чёрный, как глубины Нижнего мира.
+actor;61;Description;Although a location, it deserves a POI entry on it's own;Хотя это локация, она заслуживает отдельной записи в списке точек интереса.
+actor;21;Display Name;Jim;Джим
+actor;4;Display Name;Lucy;Люси
+actor;17;Display Name;Mila;Мила
+actor;43;Display Name;Rose;Роза
+actor;56;Display Name;Secretary;Секретарь
+actor;82;Name;unknown voice;незнакомый голос
+actor;18;Name;Viktii's Boys;Парни Викти
+actor;18;Description;Names: Dizel and Ghreshka;Имена: Дизель и Грешка
+item;110;Description;A bag with a few packs of cevapcici;Пакет с несколькими упаковками чевапчичей
+item;48;Group;Tasks;Задачи
+item;49;Group;Tasks;Задачи
+item;51;Group;Tasks;Задачи
+item;53;Group;Tasks;Задачи
+item;56;Group;Tasks;Задачи
+item;58;Group;Tasks;Задачи
+item;61;Group;Clues;Улики
+item;115;Description;don't translate;не переводить
+item;118;Description;don't translate;не переводить
+item;120;Description;don't translate;не переводить
+item;131;Description;don't translate;не переводить
+item;132;Description;don't translate;не переводить
+item;133;Description;don't translate;не переводить
+item;134;Description;don't translate;не переводить
+item;135;Description;don't translate;не переводить
+loc;22;Display Name;Baths;Бани
+actor;4;Description;A pale young Upper-Cruster girl with deep green eyes, innocent smile and perly teeth. Light blue synth-dyed hair colormatched the furry rim of the oversized hood on her leaves-green bolero.;Бледная молодая девушка с Верхних ярусов, глубокие зелёные глаза, невинная улыбка и жемчужные зубы. Светло-голубые синтетически окрашенные волосы под цвет меховой оторочки огромного капюшона на её зелёном болеро.
+actor;23;Display Name;Carmen;Кармен
+actor;24;Display Name;Cooper;Купер
+actor;26;Name;Sally;Салли
+actor;41;Display Name;Mali Cvet;Мали Цвет
+item;42;Name;A bottle of rakija;Бутылка ракии
+item;5;Group;Tasks;Задачи
+item;8;Group;Tasks;Задачи
+item;7;Group;Tasks;Задачи
+item;16;Group;Tasks;Задачи
+item;18;Group;Tasks;Задачи
+item;19;Group;Tasks;Задачи
+item;2;Display Name;Find the missing girl;Найти пропавшую девушку
+item;20;Group;Investigations;Расследования
+item;21;Group;Investigations;Расследования
+item;22;Group;Investigations;Расследования
+item;22;Display Name;Granny's daughter;Дочь Бабули
+item;23;Group;Investigations;Расследования
+item;29;Group;Investigations;Расследования
+item;3;Name;photo of Lucy;Фото Люси
+actor;73;Description;Can take me to the Baths;Может проводить меня в Бани.
+actor;51;Display Name;Escortess;Эскортница
+item;83;Name;Inferno Logs;Логи Инферно
+item;60;Group;Tasks;Задачи
+item;112;Entry 4;Investigate Room 5678;Осмотреть комнату 5678

@@ -1,0 +1,1109 @@
+01 typical forsaken;Это была обычная забытая богом ночь.
+02 too much liq;Перебор с выпивкой
+03 unconscious;а моё тело без сознания \nраспласталось по столу.
+04 what a sight;Вот это зрелище.
+05 noone to see it_1;К счастью, <alpha=#00>этого никто не видел, \nникому не было дела. Живой, по крайней мере.
+05 noone to see it_2;К счастью, никто не видел, <alpha=#00>\nникому не было дела. Зато живой.
+05 noone to see it_3;К счастью, никто этого не видел, \nи никому не было дела.<alpha=#00> По крайней мере, живой.
+05 noone to see it_4;К счастью, никто не видел, \nникому не было дела. Зато живой.
+06 once a superstar;Когда-то звезда сыска, \n<alpha=#00>теперь мёртвый груз общества.
+06 once a superstar_1;Когда-то звезда-детектив,  \nтеперь балласт для общества.
+07 relic;Реликвия, гниющая в мире кибер-стариков.
+08 losing work;Работу отбирают ауги, хакеры и робокопы.
+09 no jobs_1;Ни работы, <alpha=#00>ни денег, ни друзей.
+09 no jobs_2;Ни работы, ни денег,<alpha=#00> ни друзей.
+09 no jobs_3;Ни работы, ни денег, ни друзей.
+10 worse;Могло быть хуже. \nЯ себя обманывал.
+11 sell my soul;По крайней мере я не продал душу \nкакой-то кибернетической чуши.
+12 Lady D;Но Леди Смерть уже стояла на пороге.
+13 gut;Я чувствовал это нутром.
+14 wait;Осталось только подождать ещё немного.
+15 <knock>;< стук в дверь >
+A2/Barista;Бариста
+A2/Barricade;Баррикада
+A2/Escortess;Эскортница
+A2/Jalani;Джалани
+A2/Kevin;Кевин
+A2/Palers;Палеры
+A3/Carmen;Кармен
+A3/Cooper and Lucy;Купер и Люси
+A3/D;Ди
+Abort;Отмена
+Act 1: Entrance to Inferno;Акт 1: Вход в Инферно
+Act 1: Flats;Акт 1: Кварталы
+Act 1: Inferno, VIP;Акт 1: Инферно, ВИП
+Act 1: Metro Station;Акт 1: Станция метро
+Act 1: Office;Акт 1: Офис
+Act 1: Scray;Акт 1: Скрей
+Act 1: Tresh Corner;Акт 1: Свалка
+Act 2: Inferno, Baths;Акт 2: Инферно, Бани
+Act 2: Inferno, Cauldron;Акт 2: Инферно, Котёл
+Act 2: Inferno, Cell;Акт 2: Инферно, Камера
+Act 2: Inferno, Incident Hallway;Акт 2: Инферно, коридор инцидента
+Act 2: Inferno, Incident Room;Акт 2: Инферно, Комната инцидента
+Act 2: Inferno, Lucy's Room;Акт 2: Инферно, Комната Люси
+Act 2: Inferno, Lucy's Room Hallway;Акт 2: Инферно, коридор у комнаты Люси
+Act 2: Inferno, Praeludium;Акт 2: Инферно, Прелюдиум
+Act 2: Inferno, VIP;Акт 2: Инферно, ВИП
+Act 2: Inferno, Viktii's Penthouse;Акт 2: Инферно, Пентхаус Викти
+Act 3:  Little Babylon;Акт 3:  Малый Вавилон
+Act 3:  Stynks;Акт 3:  Стинкс
+Act 3: It's all over;Акт 3: Всё кончено
+Act 3: Office;Акт 3: Офис
+Alkosam;Алкосам
+Anti-aliasing;Сглаживание
+Are you sure you want to close the settings panel without applying?;Точно закрыть панель настроек, ничего не применив?
+Are you sure you want to overwrite the selected save file?;Точно перезаписать выбранный файл сохранения?
+Back;Назад
+Barista;Бариста
+Barricade;Баррикада
+Baths;Бани
+Bodi;Боди
+BullSec;БулСек
+BullSec Investigators;Следователи БулСека
+BullSecs;БулСеки
+Butcher;Мясник
+Buzz;Базз
+Buzz's assistant;помощник Базза
+Carmen;Кармен
+Carmen PC;Кармен
+Cat;Кот
+Cauldron waypoint;Точка Котёл
+Chenki Muscles;Ченки-Мускул
+Chinese;Китайский
+Chlop;Пацан
+Confirm;Подтвердить
+Confirm Overwrite:;Подтвердить перезапись:
+Controller;Геймпад
+Conversation panel position;Положение панели диалога
+Cooper;Купер
+Cooper and Lucy;Купер и Люси
+Creep in the corner;Тип в углу
+Czaba;Жаба
+D's Bionization Device;Устройство бионизации Ди
+D's Bionization Gadget;Гаджет бионизации Ди
+D's Device;Устройство Ди
+Dialog Audio;Звук диалогов
+Dialogue Continue;Продолжить
+Diesel;Дизель
+Dimitry;Димитри
+Dimmit;Димит
+Dimwit;Балбес
+Double D;Дабл-Ди
+Dzo;Дзо
+Dzo's door;Дверь Дзо
+EMP;ЭМП
+English;Английский
+Escortess;Эскортница
+Exclusive;Эксклюзивный
+Exclusive FullScreen;Эксклюзивный полный экран
+Exit Game;Выйти из игры
+Femme Fatale;Роковая женщина
+Flats/Butcher;Мясник
+Flats/Dzo;Дзо
+Flats/Girl;Девушка
+Flats/Trafika guy;Парень из Трафики
+Flats/Voice;Голос
+Fog;Туман
+Fullscreen;Полный экран
+Gard;Гард
+Gertie;Герти
+Gertrude;Гертруда
+Ghreska;Грешка
+Girl;Девушка
+Global UI size;Размер интерфейса
+Goodfellow;Гудфеллоу
+Granny;Бабуля
+Guide;Проводник
+Gun;Пушка
+Guza;Гуза
+HDR Support;Поддержка HDR
+Inferno;Инферно
+JActiveTasks;Активные задачи
+JCompleteTasks;Завершённые задания
+JFailedTasks;Проваленные задания
+JLocation;Локация
+JName;Имя
+JTalked;Поговорили
+JTasks;Задачи
+Jalani;Джалани
+Jim;Джим
+Kevin;Кевин
+Kitty;Китти
+Kriv;Крив
+Lady Death;Леди Смерть
+Languages;Языки
+Lens Flare;Блики объектива
+Load Game;Загрузить игру
+Loading...;Загрузка...
+Lucy;Люси
+Lucy room;комната Люси
+Lucy's Friends;Друзья Люси
+Lucy's Guide;Проводник Люси
+Lucy's head;голова Люси
+MMContinue;Продолжить
+Main Audio;Общий звук
+Mali Cvet;Мали Цвет
+Mali Cvet and Kevin;Мали Цвет и Кевин
+Malt;Мальт
+Map;Карта
+Maximized Window;Развёрнутое окно
+Metro/Perfume Salesman;Продавец парфюма
+Metro/Savica;Савица
+Metro/Voris;Ворис
+Mila;Мила
+Miss D;Мисс Ди
+Music Audio;Музыка
+Narrator;Рассказчик
+Neighbour;Сосед
+New Game;Новая игра
+No, take me back;Нет, верни меня обратно
+Notes;Заметки
+Off;Выкл.
+On;Вкл
+POIs;Места
+Palers;Палеры
+Perfume Salesman;Продавец парфюма
+Post Processing;Постобработка
+Preacher;Проповедник
+Prologue: Femme Fatale;Пролог: Роковая женщина
+Prologue: Open the door;Пролог: Открыть дверь
+Puck;Пак
+QA and tech support;Тестирование и техподдержка
+Quick Load;Быстрая загрузка
+Quick Save;Быстрое сохранение
+REC;ДЕРЗ
+Reflections;Отражения
+Resolution;Разрешение
+Resume;Продолжить
+Rose;Роза
+SCI;НАУ
+SFX Audio;Звуковые эффекты
+Sally;Салли
+Save Game;Сохранить игру
+Save Game Title;Название сохранения
+Save Slot 1;Слот 1
+Save Slot 2;Слот 2
+Save Slot 3;Слот 3
+Savica;Савица
+Scott Ham;CoreForgeLabs
+Scray/Alkosam;Алкосам
+Scray/Malt;Мальт
+ScreenMode;Режим экрана
+Secretary;Секретарь
+Sentinel;Часовой
+Service Gun TT-88;Служебный пистолет ТТ-88
+Settings;Настройки
+Taxi;Такси
+Time:;Время:
+Tip:;Совет:
+Trafikaner;Трафиканер
+Turret;Турель
+UI_volume;Громкость интерфейса
+Umbrella Salesman;Продавец зонтиков
+VIP Bodyguards;ВИП-телохранители
+Viktii;Викти
+Viktii's Boys;Парни Викти
+Volumetric;Объёмный свет
+Voris;Ворис
+Windowed;В окне
+Yes;Да
+Zina;Зина
+Zina Chenki;Зина Ченки
+[disrupt Viktii's Boys];[помешать парням Викти]
+[go inside the inferno];[войти в Инферно]
+[leave];[уйти]
+a game by;игра от
+a makeshift apartment;самодельная квартира
+a voice from the drawer;голос из ящика
+and;и
+apply_all;Применить всё
+apply_audio_settings;Применить настройки звука
+apply_graphics_settings;Применить настройки графики
+audio_settings;Звук
+auto-detect;Автоопределение
+auto_continue;Автопродолжение
+auto_save_slot;автосохранение
+auto_saved;автосохранение
+barista;бариста
+barricade;баррикада
+bed;кровать
+bed?;кровать?
+big guy;Верзила
+black wig;чёрный парик
+bloody tracks;кровавые следы
+boost_audio;Усиление звука
+cat;кот
+chair covered in blood;кресло в крови
+close;Закрыть
+close_point_shadows;Тени ближних источников
+controlls;Управление
+delivery address;адрес доставки
+desk;стол
+door;дверь
+door to puck's apartment;дверь в квартиру Пака
+door?;дверь?
+door_in;дверь
+door_interact;дверь
+drinking glasses;бокалы
+editing and proofreading:;редактура и вычитка:
+elevator;лифт
+empty;пусто
+escort;эскорт
+escortess;эскортница
+fan_tie;галстук
+footsteps in the mud;шаги в грязи
+fried terminals;сгоревшие терминалы
+gangers;бандиты
+granny;бабуля
+graphics by;графика
+graphics_setting;Графика
+high;Высокое
+impaled BullSecs;Посаженные на кол БулСеки
+impaled cyber-investigators;Посаженные на кол киберследователи
+incident room;Комната инцидента
+inferno bodyguards;телохранители Инферно
+jim;Джим
+junk;хлам
+keyboard_and_mouse;Клавиатура и мышь
+low;Низкое
+mali cvet;Мали Цвет
+master_quality;Общее качество
+medium;Среднее
+music and SFX;музыка и звуковые эффекты
+mutilated bodies;изувеченные тела
+other_settings;Прочие настройки
+pay NIN;оплатить НИН
+people lying;лежащие люди
+perfume;духи
+perfume salesman;продавец парфюма
+photo of Carmen;фотография Кармен
+presents;подарки
+programming;программирование
+pucks door locked;дверь Пака (заперто)
+pucks door unlocked;дверь Пака (открыто)
+pucks door_unknown;дверь в квартиру
+purple feather boa;фиолетовое перьевое боа
+quick_save_slot;быстрое сохранение
+quick_saved;Быстрое сохранение
+reset_audio_settings;Сбросить настройки звука
+reset_graphics_settings;Сброс настроек графики
+select_display;Выбрать дисплей
+settings;Настройки
+shadow_quality;Качество теней
+signs of struggle;следы борьбы
+starring;в ролях
+story and narrative design;сюжет и нарративный дизайн
+taxi;такси
+tech gadget;технический гаджет
+texture_quality;Качество текстур
+to: Corridor 88-990;в: Коридор 88-990
+to: Den of Temptation;в: Логово Искушения
+to: Praeludium;в: Прелюдиум
+to: VIP;в: ВИП
+toilet;туалет
+trafika;трафика
+transistor_radio;Транзисторное радио
+travel guide;путеводитель
+umbrella salesman;продавец зонтиков
+unknown voice;Неизвестный голос
+very_high;Очень высокое
+very_low;Очень низкое
+wake up;очнуться
+walls;стены
+wardrobe;шкаф
+watch tower;сторожевая вышка
+writing;сценарий
+Report to Viktii;Доложить Викти
+Find the survivor;Найти выжившую
+Distract Zina;Отвлечь Зину
+Investigate the incident room;Осмотреть комнату инцидента
+Hides something about Lucy's Room;Что-то скрывает о комнате Люси
+Didn't kidnap Lucy;Не похищал Люси
+Doesn't know anything about Lucy;Ничего не знает о Люси
+Find Zina;Найти Зину
+Get a permission to investigate BullSec scene;Получить разрешение осмотреть место казни БулСека
+Report to Zina;Доложить Зине
+Investigate Preacher's plans.;Выяснить планы Проповедника
+Find out why Dzo is looking for the server room;Выяснить, зачем Дзо ищет серверную
+Brought peace to the Pit;Принёс мир в Яму
+Waiting for backup;Ждёт подкрепления
+Will help me find Lucy if I make it worth her while;Поможет найти Люси, если заплатить
+Check out the 'Impaled Cyber Investigators';Проверить «Посаженных на кол киберследователей»
+Get more rakija from the Scray;Взять ещё ракии у Скреи
+Open the door;Открыть дверь
+Evade eviction;Избежать выселения
+Ask Malt where's Dzo;Спросить Мальта, где Дзо
+Find the missing girl;Найти пропавшую девушку
+Find a Guide to enter the Inferno;Найти проводника в Инферно
+Enter Inferno VIP;Попасть в ВИП Инферно
+Ask around the Inferno;Расспросить в Инферно
+Ask around the Metro Station;Расспросить на станции метро
+Discover Lucy's current location;Выяснить, где сейчас Люси
+Find a way into the Inferno VIP;Найти путь в ВИП Инферно
+Find Inferno VIP cartridge;Найти картридж ВИП Инферно
+Investigate Room 5678;Осмотреть комнату 5678
+What did they use the tech gadget for?;Для чего им был нужен техно-гаджет?
+Did she wear a black wig? And why?;Носила ли она чёрный парик? И зачем?
+Were there more women with them?;С ними были ещё женщины?
+Ask about the worm;Спросить про «Червя»
+Class A+ citizen. 7 years old;Гражданка класса А+. 7 лет
+Bought the last bottle of an old-scent perfume;Купила последний флакон духов со старым ароматом
+Puck was her guide;Пак был её проводником
+Goodfellow was her guide;Гудфеллоу был её проводником
+Lucy never returned to the metro station;Люси так и не вернулась на станцию метро
+Came with friends by a metro train;Приехала с подругами на поезде метро
+08:75 - Entered Inferno;08:75 — вошла в Инферно
+Logged leaving Inferno at 00:24 with her friends;Зафиксирован выход из Инферно в 00:24 с подругами
+Her lipstick ended up in Puck's apartment;Её помада оказалась в квартире Пака
+Lucy and her friends probably went to Inferno after arrival;Люси с подругами, вероятно, сразу отправилась в Инферно
+Puck arranged an escort for her and her friends to the Metro;Пак устроил ей и подругам сопровождение до метро
+Switched identities with Kitty;Обменялась личностями с Китти
+Kidnapped from the Inferno room;Похищена из комнаты Инферно
+Wore Kitty's escortess uniform;Носила форму эскортницы Китти
+00:00 Took the worm;00:00 — принял «Червя»
+Had breakfast with Granny when the BullSec incident occured;Завтракала с Бабулей, когда случился инцидент с БулСеком
+Wore a black wig to look like Kitty;Носила чёрный парик, чтобы походить на Китти
+Where to find Mila?;Где искать Милу?
+Ask the Chenki Goons where to find Mila;Спросить у шестёрок Ченки, где найти Милу
+Find Mila at CoffeeINN;Найти Милу в КофеИНН
+Ask about Fedora Fuckboy;Спросить про мудака в федоре
+Ask about BullSec impalement;Спросить про посаженных на кол
+Ask about Lucy;Спросить про Люси
+Ask about Puck;Спросить про Пака
+First shift at Trash Corner (starts around 00.00);Первая смена на Свалке (начинается около 00:00)
+Mila developed feelings for Puck;Мила прониклась чувствами к Паку
+Knows Puck;Знает Пака
+Worked on Trash at the time of BullSec impalement;Работал на Свалке во время казни БулСека
+Deliver food to Flats, Corridor 88-990;Доставить еду в Кварталы, Коридор 88-990
+Saved his cheating ass;Спас его лживую задницу
+Busted his cheating ass;Сцапал его изменническую задницу
+Wasn't his shift when the impalement happened;Не его была смена, когда их сажали на кол
+Find Rose;Найти Розу
+Why did Jim call her a whore?;Почему Джим назвал её шлюхой?
+What happened to Rose?;Что случилось с Розой?
+What really happened to Rose?;Что на самом деле случилось с Розой?
+Solve the Rose-Kitty conundrum;Разобраться с загадкой Розы и Китти
+Granny's daughter;Дочь Бабули
+Ate breakfast with Granny at the time of the BullSec attack;Завтракала с Бабулей во время нападения БулСека
+Work uniform: purple dress, feather boa;Форма: фиолетовое платье, боа из перьев
+Left Trash Corner with Goodfellow;Ушла со Свалки с Гудфеллоу
+Died two decimal years ago;Умерла два десятичных года назад
+Was an escortess in the Inferno;Была эскортницей в Инферно
+Rose Witnessed the BullSec;Роза видела БулСек
+Fell from Inferno railing into the sludges. They never found her body.;Упала с перил Инферно в шлам. Тело так и не нашли.
+Designed escortess purple uniforms;Придумала фиолетовую форму эскортниц
+Wore a genuine Jasmine perfume;Пользовалась настоящими духами «Жасмин»
+Spill blood for the 'Blood-Bond';Пролить кровь ради «Кровной связи»
+Find out what happened to them;Выяснить, что с ними случилось
+Visit the scene of Impalement at the Tresh Corner;Посетить место казни на Свалке
+Why are they not still alive;Почему они всё ещё не живы
+Find the missing arm;Найти пропавшую руку
+Why did they return to Tresh after the arrest?;Зачем они вернулись на Свалку после ареста?
+Who impaled the BullSec investigators;Кто посадил на кол следователей БулСека
+Question Preacher;Допросить Проповедника
+Question Viktii's Boys;Допросить парней Викти
+Question Kriv;Допросить Крива
+Find what to do with the BullSec hand;Решить, что делать с рукой БулСека
+Take the hand to Dzo;Отнести руку Дзо
+Get the arm from the Butcher;Забрать руку у Мясника
+09:10 - Sent by D;09:10 — отправлено Д.
+They were dead before they were impaled;Они были мертвы до того, как их посадили на кол
+One is missing a cybernetic arm;У одного не хватает кибернетической руки
+Impaled by Viktii's Boys;Посажены на кол парнями Викти
+00:08 - Hacked Inferno's logs;00:08 — взломаны логи Инферно
+00:36 - Registered Lucy's NIN IP;00:36 — зарегистрирован НИН-IP Люси
+00:36 - Arrested Lucy;00:36 — Люси арестована
+00:63 - Last registered NIN IP was Kitty's;00:63 — последний зарегистрированный НИН-IP принадлежал Китти
+"Their NINs were burned down by a ""destructive malware""";Их НИН сожгло «деструктивное вредоносное ПО»
+00:75 - Viktii's Boys close off the Fast Food Plateau;00:75 — парни Викти перекрывают Фастфудное плато
+Burning wire and meat prior incident;Перед инцидентом — запах жжёной проводки и мяса
+NIN and electricity blackout prior incident;Перед инцидентом — отключение НИН и электричества
+Incident happened at 00:65;Инцидент случился в 00:65
+Returned intoxicated at 00.21;Вернулась пьяной в 00:21
+Ask around CoffeeINN, Flats;Расспросить в КофеИНН и Кварталах
+Find Goodfellow;Найти Гудфеллоу
+Find Puck's apartment around Flats: CoffeeINN;Найти квартиру Пака в Кварталах у КофеИНН
+Turn on the Cat in Puck's apartment;Включить Кота в квартире Пака
+Find a charger for the Cat in Puck's apartment;Найти зарядку для Кота в квартире Пака
+Investigate Puck's apartment in Corridor 88-990;Осмотреть квартиру Пака в Коридоре 88-990
+Find his old Inferno pass cartridge;Найти его старый картридж-пропуск в Инферно
+Report to Puck;Доложить Паку
+Buy Pet Bion 6.35 charger at trafika;Купить зарядку для Пет-Бион 6.35 в Трафике
+One of the fancy guides.;Один из модных проводников.
+Call themselves 'indie' guides;Называют себя «независимыми» проводниками
+Takes Uppers to Den of Temptations in Inferno;Возит Верхних в Логово соблазнов в Инферно
+Possibly skinny, average height, wears a fedora;Возможно, худой, среднего роста, носит федору
+Mali Cvet calls Puck Goodfellow;Мали Цвет зовёт Пака Гудфеллоу
+His dad Kriv was in Big Daddy's gang, got injured;Его отец Крив был в банде Большого Папочки и пострадал
+Left Inferno with Kitty at 00:45;Ушла из Инферно с Китти в 00:45
+Mila saw him in the crowd at Tresh, before the impaling started;Мила видела его в толпе на Свалке до того, как начали сажать на кол
+Picked up Kitty from the Tresh before the impaling started (00:65);Забрал Китти со Свалки до того, как начали сажать на кол (00:65)
+Packed up the necessities from his apartment;Собрал необходимое в своей квартире
+Puck's father's mind is transfered to a pet bion body;Сознание отца Пака перенесено в тело пет-биона
+Didn't put Kriv's batteries to recharge;Не поставил батареи Крива на зарядку
+Puck is not involved in any gang business;Пак не связан с делами банд
+Lived with his sister;Жил с сестрой
+Decent Guy;Приличный парень
+Has Debts;Есть долги
+Well-Dressed Man;Хорошо одетый мужчина
+Brought a woman home this morning;Сегодня утром привёл женщину домой
+Returned to Inferno with Kitty at 4:33;Вернулась в Инферно с Китти в 4:33
+Talk to the creep in the corner of Metro Station;Поговорить с типом в углу станции метро
+Nobody knows Goodfellow;Никто не знает Гудфеллоу
+Where did Goodfellow take them;Куда Гудфеллоу их увёл
+Find the missing handle for the arcade machine;Найти пропавшую рукоятку от игрового автомата
+Ask for Goodfellow description;Спросить описание Гудфеллоу
+Give Lucy’s photo to Mali Cvet;Отдать фото Люси Мали Цвету
+Mali Cvet NIN Pass;НИН-пропуск Мали Цвета
+Take Hacked License to Mali Cvet;Отнести взломанную лицензию Мали Цвету
+Slay Jalani;Уничтожить Джалани
+Mixes names;Путает имена
+Archived' a guide;«Архивировал» проводника
+Archived' Harry Maylie 621 days ago;«Архивировал» Гарри Мейли 621 день назад
+Fought a war against Jalani;Воевал против Джалани
+He is from the Underworld;Он из Нижнего мира
+Someone tortured him;Его кто-то пытал
+Wants to be a freelance guide;Хочет стать свободным проводником
+What's up with the Granny?;Что не так с Бабулей?
+Did granny mistake her daugher for Kitty;Приняла ли Бабуля дочь за Китти
+Ask about Granny's daughter.;Спросить про дочь Бабули
+If Granny Witnessed BullSec Raid;Видела ли Бабуля рейд БулСека
+Hearing-impaired;Туговата на слух
+Ate breakfast with Kitty;Завтракала с Китти
+Find Baths;Найти Бани
+Three fences is his favorite poem;«Три забора» — его любимое стихотворение
+Cleared himself of Tech;Снял с себя обвинение по технике
+Big Daddy techie;Технарь Большого Папочки
+Not fond of Diesel and Greshka;Не любит Дизеля и Грешку
+Viktii admires his manipulative skills;Викти восхищается его даром манипуляции
+Find Puck;Найти Пака
+Ask Kriv for the keys to his Taxi;Попросить у Крива ключи от его такси
+Stuck inside a Cat Bion;Застрял в теле Кот-биона
+- find Viktii's Boys;— найти парней Викти
+Impaled BullSecs;Посаженные на кол БулСеки
+Appointed Muscles;Приставлен Мускул
+Ex Big Daddiy brutes, now controlled by Chenkiis;Бывшие головорезы Большого Папочки, теперь под Ченки
+Left Inferno at 00:40 and disappeared;Ушла из Инферно в 00:40 и исчезла
+Rose's best friend;Лучшая подруга Розы
+Had to run from Zina;Пришлось бежать от Зины
+Find and question Kitty;Найти и допросить Китти
+Discover Kitty's current location;Выяснить, где сейчас Китти
+Check if she's at Kazan;Проверить, не в Казане ли она
+You need a registered guide, NIN pass, or a cartridge to enter;Для входа нужен зарегистрированный проводник, НИН-пропуск или картридж
+Inferno under lockdown;Инферно перекрыт
+Worm is the best drug in the Inferno;«Червь» — лучший наркотик в Инферно
+The outage was caused by a violent null-zone shockwave;Отключение вызвано мощной ударной волной из нулевой зоны
+The null zone is slowly subsiding;Нулевая зона постепенно затихает
+Worm is a drug from the Underworld;«Червь» — наркотик из Нижнего мира
+Worm lets you relive 5 years of someone's life;«Червь» даёт прожить 5 лет чужой жизни
+Find a way to enter Inferno;Найти способ попасть в Инферно
+Find a guide to enter the Inferno;Найти проводника, чтобы попасть в Инферно
+Find a guide licence for Mali Cvet;Найти лицензию проводника для Мали Цвета
+Hack Puck’s licence;Взломать лицензию Пака
+Take hacked licence to Mali Cvet;Отнести взломанную лицензию Мали Цвету
+Enter Inferno with Mali Cvet;Войти в Инферно с Мали Цветом
+Find a used licence cartridge;Найти б/у картридж лицензии
+Hack the used licence;Взломать б/у лицензию
+Tell Mali Cvet about his renewed licence;Сообщить Мали Цвету о продлённой лицензии
+Find a manual car to crash into Inferno VIP;Найти машину с ручным управлением, чтобы протаранить ВИП Инферно
+Find a key for the taxi;Найти ключ от такси
+Ask kriv about his key to the taxi;Спросить Крива, где ключ от такси
+Get the key to Kriv's car from Buzz;Взять ключ от машины Крива у Базза
+Drive the taxi into the Inferno VIP;Въехать на такси в ВИП Инферно
+Return to Dzo later about the hand;Позже вернуться к Дзо насчёт руки
+Check the Shockwaved Rooms;Проверить комнаты, задетые ударной волной
+Is Dzo’s tech cult affected?;Пострадал ли техно-культ Дзо?
+Someone is hunting Dzo's bion connection;Кто-то охотится за бион-подключением Дзо
+Talk Dzo back out of Jalani Business;Отговорить Дзо от дел с Джалани
+Try to help dzo;Попробовать помочь Дзо
+Save Dzo from Jalani;Спасти Дзо от Джалани
+Bring a Chenkii to Cauldron;Привести Ченки к Котлу
+Disrupt Viktii's Boys;Сорвать планы парней Викти
+Ask Preacher how to sabotage Dzo;Спросить Проповедника, как саботировать Дзо
+Ask Chenkiis about the server room;Спросить Ченки про серверную
+Return to the Cauldron;Вернуться к Котлу
+Tell Dzo about Palers;Рассказать Дзо про Палеров
+Report about the Incident Room;Доложить о комнате инцидента
+Find the server room;Найти серверную
+Lives in a techie commune;Живёт в коммуне технарей
+Has nervous implants;Имеет импланты нервной системы
+Has a backup of Jalani;У него есть резервная копия Джалани
+Get the keys to Kriv's car;Взять ключи от машины Крива
+Find a guide in Praeludium, beyond the Cauldron;Найти проводника в Прелюдиуме, за Котлом
+Mutilated bodies’ heads and spines exploded, all augs fried;У изуродованных тел взорвались головы и позвоночники, все аугментации сгорели
+Someone was presented on a strange cyber-chair;Кого-то показывали на странном кибер-кресле
+Someone was presented on a Bion upload chair;Кого-то показывали на кресле загрузки биона
+Someone survived the incident;Кто-то выжил в этом инциденте
+Survivor was probably female;Выжившая, скорее всего, женщина
+All tech fried;Вся техника сгорела
+Blood is dark blue hue;Кровь тёмно-синего оттенка
+Survivor's tracks lost at cauldron;Следы выжившей потерялись у Котла
+Victims were Palers;Жертвы — Палеры
+Did the victims have nervous system augs?;Были ли у жертв аугментации нервной системы?
+Was Dzo here!?;Дзо был здесь?!
+Follow the bloody tracks;Идти по кровавому следу
+Jalani is fried;Джалани сгорел
+Devours Bion imprints;Пожирает бион-отпечатки
+Chenkiis are Palers;Ченки — это Палеры
+Copper-based blood system;Кровеносная система на медной основе
+Blue blood;Синяя кровь
+Storage for Jalani;Хранилище для Джалани
+See, feel, control data flow with natural senses;Видеть, чувствовать и управлять потоком данных обычными чувствами
+Underworld race;Раса Нижнего мира
+CYN;ЦИН
+Their NINs were burned down by a "destructive malware";Их НИНы сожгла деструктивная малварь
+-01 typical forsaken;Это была обычная забытая богом ночь.
+-02 too much liq;Перебор с выпивкой
+-03 unconscious;а моё тело без сознания \nраспласталось по столу.
+-04 what a sight;Вот это зрелище.
+-05 noone to see it_1;К счастью, <alpha=#00>этого никто не видел, \nникому не было дела. Живой, по крайней мере.
+-05 noone to see it_2;К счастью, никто не видел, <alpha=#00>\nникому не было дела. Зато живой.
+-05 noone to see it_3;К счастью, никто этого не видел, \nи никому не было дела.<alpha=#00> По крайней мере, живой.
+-05 noone to see it_4;К счастью, никто не видел, \nникому не было дела. Зато живой.
+-06 once a superstar;Когда-то звезда сыска, \n<alpha=#00>теперь мёртвый груз общества.
+-06 once a superstar_1;Когда-то звезда-детектив,  \nтеперь балласт для общества.
+-07 relic;Реликвия, гниющая в мире кибер-стариков.
+-08 losing work;Работу отбирают ауги, хакеры и робокопы.
+-09 no jobs_1;Ни работы, <alpha=#00>ни денег, ни друзей.
+-09 no jobs_2;Ни работы, ни денег,<alpha=#00> ни друзей.
+-09 no jobs_3;Ни работы, ни денег, ни друзей.
+-10 worse;Могло быть хуже. \nЯ себя обманывал.
+-11 sell my soul;По крайней мере я не продал душу \nкакой-то кибернетической чуши.
+-12 Lady D;Но Леди Смерть уже стояла на пороге.
+-13 gut;Я чувствовал это нутром.
+-14 wait;Осталось только подождать ещё немного.
+-15 <knock>;< стук в дверь >
+-A2/Barista;Бариста
+-A2/Barricade;Баррикада
+-A2/Escortess;Эскортница
+-A2/Jalani;Джалани
+-A2/Kevin;Кевин
+-A2/Palers;Палеры
+-A3/Carmen;Кармен
+-A3/Cooper and Lucy;Купер и Люси
+-A3/D;Ди
+-Abort;Отмена
+-Act 1: Entrance to Inferno;Акт 1: Вход в Инферно
+-Act 1: Flats;Акт 1: Кварталы
+-Act 1: Inferno, VIP;Акт 1: Инферно, ВИП
+-Act 1: Metro Station;Акт 1: Станция метро
+-Act 1: Office;Акт 1: Офис
+-Act 1: Scray;Акт 1: Скрей
+-Act 1: Tresh Corner;Акт 1: Свалка
+-Act 2: Inferno, Baths;Акт 2: Инферно, Бани
+-Act 2: Inferno, Cauldron;Акт 2: Инферно, Котёл
+-Act 2: Inferno, Cell;Акт 2: Инферно, Камера
+-Act 2: Inferno, Incident Hallway;Акт 2: Инферно, коридор инцидента
+-Act 2: Inferno, Incident Room;Акт 2: Инферно, Комната инцидента
+-Act 2: Inferno, Lucy's Room;Акт 2: Инферно, Комната Люси
+-Act 2: Inferno, Lucy's Room Hallway;Акт 2: Инферно, коридор у комнаты Люси
+-Act 2: Inferno, Praeludium;Акт 2: Инферно, Прелюдиум
+-Act 2: Inferno, VIP;Акт 2: Инферно, ВИП
+-Act 2: Inferno, Viktii's Penthouse;Акт 2: Инферно, Пентхаус Викти
+-Act 3:  Little Babylon;Акт 3:  Малый Вавилон
+-Act 3:  Stynks;Акт 3:  Стинкс
+-Act 3: It's all over;Акт 3: Всё кончено
+-Act 3: Office;Акт 3: Офис
+-Alkosam;Алкосам
+-Anti-aliasing;Сглаживание
+-Are you sure you want to close the settings panel without applying?;Точно закрыть панель настроек, ничего не применив?
+-Are you sure you want to overwrite the selected save file?;Точно перезаписать выбранный файл сохранения?
+-Back;Назад
+-Barista;Бариста
+-Barricade;Баррикада
+-Baths;Бани
+-Bodi;Боди
+-BullSec;БулСек
+-BullSec Investigators;Следователи БулСека
+-BullSecs;БулСеки
+-Butcher;Мясник
+-Buzz;Базз
+-Buzz's assistant;помощник Базза
+-Carmen;Кармен
+-Carmen PC;Кармен
+-Cat;Кот
+-Cauldron waypoint;Точка Котёл
+-Chenki Muscles;Ченки-Мускул
+-Chinese;Китайский
+-Chlop;Пацан
+-Confirm;Подтвердить
+-Confirm Overwrite:;Подтвердить перезапись:
+-Controller;Геймпад
+-Conversation panel position;Положение панели диалога
+-Cooper;Купер
+-Cooper and Lucy;Купер и Люси
+-Creep in the corner;Тип в углу
+-Czaba;Жаба
+-D's Bionization Device;Устройство бионизации Ди
+-D's Bionization Gadget;Гаджет бионизации Ди
+-D's Device;Устройство Ди
+-Dialog Audio;Звук диалогов
+-Dialogue Continue;Продолжить
+-Diesel;Дизель
+-Dimitry;Димитри
+-Dimmit;Димит
+-Dimwit;Балбес
+-Double D;Дабл-Ди
+-Dzo;Дзо
+-Dzo's door;Дверь Дзо
+-EMP;ЭМП
+-English;Английский
+-Escortess;Эскортница
+-Exclusive;Эксклюзивный
+-Exclusive FullScreen;Эксклюзивный полный экран
+-Exit Game;Выйти из игры
+-Femme Fatale;Роковая женщина
+-Flats/Butcher;Мясник
+-Flats/Dzo;Дзо
+-Flats/Girl;Девушка
+-Flats/Trafika guy;Парень из Трафики
+-Flats/Voice;Голос
+-Fog;Туман
+-Fullscreen;Полный экран
+-Gard;Гард
+-Gertie;Герти
+-Gertrude;Гертруда
+-Ghreska;Грешка
+-Girl;Девушка
+-Global UI size;Размер интерфейса
+-Goodfellow;Гудфеллоу
+-Granny;Бабуля
+-Guide;Проводник
+-Gun;Пушка
+-Guza;Гуза
+-HDR Support;Поддержка HDR
+-Inferno;Инферно
+-JActiveTasks;Активные задачи
+-JCompleteTasks;Завершённые задания
+-JFailedTasks;Проваленные задания
+-JLocation;Локация
+-JName;Имя
+-JTalked;Поговорили
+-JTasks;Задачи
+-Jalani;Джалани
+-Jim;Джим
+-Kevin;Кевин
+-Kitty;Китти
+-Kriv;Крив
+-Lady Death;Леди Смерть
+-Languages;Языки
+-Lens Flare;Блики объектива
+-Load Game;Загрузить игру
+-Loading...;Загрузка...
+-Lucy;Люси
+-Lucy room;комната Люси
+-Lucy's Friends;Друзья Люси
+-Lucy's Guide;Проводник Люси
+-Lucy's head;голова Люси
+-MMContinue;Продолжить
+-Main Audio;Общий звук
+-Mali Cvet;Мали Цвет
+-Mali Cvet and Kevin;Мали Цвет и Кевин
+-Malt;Мальт
+-Map;Карта
+-Maximized Window;Развёрнутое окно
+-Metro/Perfume Salesman;Продавец парфюма
+-Metro/Savica;Савица
+-Metro/Voris;Ворис
+-Mila;Мила
+-Miss D;Мисс Ди
+-Music Audio;Музыка
+-Narrator;Рассказчик
+-Neighbour;Сосед
+-New Game;Новая игра
+-No, take me back;Нет, верни меня обратно
+-Notes;Заметки
+-Off;Выкл.
+-On;Вкл
+-POIs;Места
+-Palers;Палеры
+-Perfume Salesman;Продавец парфюма
+-Post Processing;Постобработка
+-Preacher;Проповедник
+-Prologue: Femme Fatale;Пролог: Роковая женщина
+-Prologue: Open the door;Пролог: Открыть дверь
+-Puck;Пак
+-QA and tech support;Тестирование и техподдержка
+-Quick Load;Быстрая загрузка
+-Quick Save;Быстрое сохранение
+-REC;ДЕРЗ
+-Reflections;Отражения
+-Resolution;Разрешение
+-Resume;Продолжить
+-Rose;Роза
+-SCI;НАУ
+-SFX Audio;Звуковые эффекты
+-Sally;Салли
+-Save Game;Сохранить игру
+-Save Game Title;Название сохранения
+-Save Slot 1;Слот 1
+-Save Slot 2;Слот 2
+-Save Slot 3;Слот 3
+-Savica;Савица
+-Scott Ham;CoreForgeLabs
+-Scray/Alkosam;Алкосам
+-Scray/Malt;Мальт
+-ScreenMode;Режим экрана
+-Secretary;Секретарь
+-Sentinel;Часовой
+-Service Gun TT-88;Служебный пистолет ТТ-88
+-Settings;Настройки
+-Taxi;Такси
+-Time:;Время:
+-Tip:;Совет:
+-Trafikaner;Трафиканер
+-Turret;Турель
+-UI_volume;Громкость интерфейса
+-Umbrella Salesman;Продавец зонтиков
+-VIP Bodyguards;ВИП-телохранители
+-Viktii;Викти
+-Viktii's Boys;Парни Викти
+-Volumetric;Объёмный свет
+-Voris;Ворис
+-Windowed;В окне
+-Yes;Да
+-Zina;Зина
+-Zina Chenki;Зина Ченки
+-[disrupt Viktii's Boys];[помешать парням Викти]
+-[go inside the inferno];[войти в Инферно]
+-[leave];[уйти]
+-a game by;игра от
+-a makeshift apartment;самодельная квартира
+-a voice from the drawer;голос из ящика
+-and;и
+-apply_all;Применить всё
+-apply_audio_settings;Применить настройки звука
+-apply_graphics_settings;Применить настройки графики
+-audio_settings;Звук
+-auto-detect;Автоопределение
+-auto_continue;Автопродолжение
+-auto_save_slot;автосохранение
+-auto_saved;автосохранение
+-barista;бариста
+-barricade;баррикада
+-bed;кровать
+-bed?;кровать?
+-big guy;Верзила
+-black wig;чёрный парик
+-bloody tracks;кровавые следы
+-boost_audio;Усиление звука
+-cat;кот
+-chair covered in blood;кресло в крови
+-close;Закрыть
+-close_point_shadows;Тени ближних источников
+-controlls;Управление
+-delivery address;адрес доставки
+-desk;стол
+-door;дверь
+-door to puck's apartment;дверь в квартиру Пака
+-door?;дверь?
+-door_in;дверь
+-door_interact;дверь
+-drinking glasses;бокалы
+-editing and proofreading:;редактура и вычитка:
+-elevator;лифт
+-empty;пусто
+-escort;эскорт
+-escortess;эскортница
+-fan_tie;галстук
+-footsteps in the mud;шаги в грязи
+-fried terminals;сгоревшие терминалы
+-gangers;бандиты
+-granny;бабуля
+-graphics by;графика
+-graphics_setting;Графика
+-high;Высокое
+-impaled BullSecs;Посаженные на кол БулСеки
+-impaled cyber-investigators;Посаженные на кол киберследователи
+-incident room;Комната инцидента
+-inferno bodyguards;телохранители Инферно
+-jim;Джим
+-junk;хлам
+-keyboard_and_mouse;Клавиатура и мышь
+-low;Низкое
+-mali cvet;Мали Цвет
+-master_quality;Общее качество
+-medium;Среднее
+-music and SFX;музыка и звуковые эффекты
+-mutilated bodies;изувеченные тела
+-other_settings;Прочие настройки
+-pay NIN;оплатить НИН
+-people lying;лежащие люди
+-perfume;духи
+-perfume salesman;продавец парфюма
+-photo of Carmen;фотография Кармен
+-presents;подарки
+-programming;программирование
+-pucks door locked;дверь Пака (заперто)
+-pucks door unlocked;дверь Пака (открыто)
+-pucks door_unknown;дверь в квартиру
+-purple feather boa;фиолетовое перьевое боа
+-quick_save_slot;быстрое сохранение
+-quick_saved;Быстрое сохранение
+-reset_audio_settings;Сбросить настройки звука
+-reset_graphics_settings;Сброс настроек графики
+-select_display;Выбрать дисплей
+-settings;Настройки
+-shadow_quality;Качество теней
+-signs of struggle;следы борьбы
+-starring;в ролях
+-story and narrative design;сюжет и нарративный дизайн
+-taxi;такси
+-tech gadget;технический гаджет
+-texture_quality;Качество текстур
+-to: Corridor 88-990;в: Коридор 88-990
+-to: Den of Temptation;в: Логово Искушения
+-to: Praeludium;в: Прелюдиум
+-to: VIP;в: ВИП
+-toilet;туалет
+-trafika;трафика
+-transistor_radio;Транзисторное радио
+-travel guide;путеводитель
+-umbrella salesman;продавец зонтиков
+-unknown voice;Неизвестный голос
+-very_high;Очень высокое
+-very_low;Очень низкое
+-wake up;очнуться
+-walls;стены
+-wardrobe;шкаф
+-watch tower;сторожевая вышка
+-writing;сценарий
+-Report to Viktii;Доложить Викти
+-Find the survivor;Найти выжившую
+-Distract Zina;Отвлечь Зину
+-Investigate the incident room;Осмотреть комнату инцидента
+-Hides something about Lucy's Room;Что-то скрывает о комнате Люси
+-Didn't kidnap Lucy;Не похищал Люси
+-Doesn't know anything about Lucy;Ничего не знает о Люси
+-Find Zina;Найти Зину
+-Get a permission to investigate BullSec scene;Получить разрешение осмотреть место казни БулСека
+-Report to Zina;Доложить Зине
+-Investigate Preacher's plans.;Выяснить планы Проповедника
+-Find out why Dzo is looking for the server room;Выяснить, зачем Дзо ищет серверную
+-Brought peace to the Pit;Принёс мир в Яму
+-Waiting for backup;Ждёт подкрепления
+-Will help me find Lucy if I make it worth her while;Поможет найти Люси, если заплатить
+-Check out the 'Impaled Cyber Investigators';Проверить «Посаженных на кол киберследователей»
+-Get more rakija from the Scray;Взять ещё ракии у Скреи
+-Open the door;Открыть дверь
+-Evade eviction;Избежать выселения
+-Ask Malt where's Dzo;Спросить Мальта, где Дзо
+-Find the missing girl;Найти пропавшую девушку
+-Find a Guide to enter the Inferno;Найти проводника в Инферно
+-Enter Inferno VIP;Попасть в ВИП Инферно
+-Ask around the Inferno;Расспросить в Инферно
+-Ask around the Metro Station;Расспросить на станции метро
+-Discover Lucy's current location;Выяснить, где сейчас Люси
+-Find a way into the Inferno VIP;Найти путь в ВИП Инферно
+-Find Inferno VIP cartridge;Найти картридж ВИП Инферно
+-Investigate Room 5678;Осмотреть комнату 5678
+-What did they use the tech gadget for?;Для чего им был нужен техно-гаджет?
+-Did she wear a black wig? And why?;Носила ли она чёрный парик? И зачем?
+-Were there more women with them?;С ними были ещё женщины?
+-Ask about the worm;Спросить про «Червя»
+-Class A+ citizen. 7 years old;Гражданка класса А+. 7 лет
+-Bought the last bottle of an old-scent perfume;Купила последний флакон духов со старым ароматом
+-Puck was her guide;Пак был её проводником
+-Goodfellow was her guide;Гудфеллоу был её проводником
+-Lucy never returned to the metro station;Люси так и не вернулась на станцию метро
+-Came with friends by a metro train;Приехала с подругами на поезде метро
+-08:75 - Entered Inferno;08:75 — вошла в Инферно
+-Logged leaving Inferno at 00:24 with her friends;Зафиксирован выход из Инферно в 00:24 с подругами
+-Her lipstick ended up in Puck's apartment;Её помада оказалась в квартире Пака
+-Lucy and her friends probably went to Inferno after arrival;Люси с подругами, вероятно, сразу отправилась в Инферно
+-Puck arranged an escort for her and her friends to the Metro;Пак устроил ей и подругам сопровождение до метро
+-Switched identities with Kitty;Обменялась личностями с Китти
+-Kidnapped from the Inferno room;Похищена из комнаты Инферно
+-Wore Kitty's escortess uniform;Носила форму эскортницы Китти
+-00:00 Took the worm;00:00 — принял «Червя»
+-Had breakfast with Granny when the BullSec incident occured;Завтракала с Бабулей, когда случился инцидент с БулСеком
+-Wore a black wig to look like Kitty;Носила чёрный парик, чтобы походить на Китти
+-Where to find Mila?;Где искать Милу?
+-Ask the Chenki Goons where to find Mila;Спросить у шестёрок Ченки, где найти Милу
+-Find Mila at CoffeeINN;Найти Милу в КофеИНН
+-Ask about Fedora Fuckboy;Спросить про мудака в федоре
+-Ask about BullSec impalement;Спросить про посаженных на кол
+-Ask about Lucy;Спросить про Люси
+-Ask about Puck;Спросить про Пака
+-First shift at Trash Corner (starts around 00.00);Первая смена на Свалке (начинается около 00:00)
+-Mila developed feelings for Puck;Мила прониклась чувствами к Паку
+-Knows Puck;Знает Пака
+-Worked on Trash at the time of BullSec impalement;Работал на Свалке во время казни БулСека
+-Deliver food to Flats, Corridor 88-990;Доставить еду в Кварталы, Коридор 88-990
+-Saved his cheating ass;Спас его лживую задницу
+-Busted his cheating ass;Сцапал его изменническую задницу
+-Wasn't his shift when the impalement happened;Не его была смена, когда их сажали на кол
+-Find Rose;Найти Розу
+-Why did Jim call her a whore?;Почему Джим назвал её шлюхой?
+-What happened to Rose?;Что случилось с Розой?
+-What really happened to Rose?;Что на самом деле случилось с Розой?
+-Solve the Rose-Kitty conundrum;Разобраться с загадкой Розы и Китти
+-Granny's daughter;Дочь Бабули
+-Ate breakfast with Granny at the time of the BullSec attack;Завтракала с Бабулей во время нападения БулСека
+-Work uniform: purple dress, feather boa;Форма: фиолетовое платье, боа из перьев
+-Left Trash Corner with Goodfellow;Ушла со Свалки с Гудфеллоу
+-Died two decimal years ago;Умерла два десятичных года назад
+-Was an escortess in the Inferno;Была эскортницей в Инферно
+-Rose Witnessed the BullSec;Роза видела БулСек
+-Fell from Inferno railing into the sludges. They never found her body.;Упала с перил Инферно в шлам. Тело так и не нашли.
+-Designed escortess purple uniforms;Придумала фиолетовую форму эскортниц
+-Wore a genuine Jasmine perfume;Пользовалась настоящими духами «Жасмин»
+-Spill blood for the 'Blood-Bond';Пролить кровь ради «Кровной связи»
+-Find out what happened to them;Выяснить, что с ними случилось
+-Visit the scene of Impalement at the Tresh Corner;Посетить место казни на Свалке
+-Why are they not still alive;Почему они всё ещё не живы
+-Find the missing arm;Найти пропавшую руку
+-Why did they return to Tresh after the arrest?;Зачем они вернулись на Свалку после ареста?
+-Who impaled the BullSec investigators;Кто посадил на кол следователей БулСека
+-Question Preacher;Допросить Проповедника
+-Question Viktii's Boys;Допросить парней Викти
+-Question Kriv;Допросить Крива
+-Find what to do with the BullSec hand;Решить, что делать с рукой БулСека
+-Take the hand to Dzo;Отнести руку Дзо
+-Get the arm from the Butcher;Забрать руку у Мясника
+-09:10 - Sent by D;09:10 — отправлено Д.
+-They were dead before they were impaled;Они были мертвы до того, как их посадили на кол
+-One is missing a cybernetic arm;У одного не хватает кибернетической руки
+-Impaled by Viktii's Boys;Посажены на кол парнями Викти
+-00:08 - Hacked Inferno's logs;00:08 — взломаны логи Инферно
+-00:36 - Registered Lucy's NIN IP;00:36 — зарегистрирован НИН-IP Люси
+-00:36 - Arrested Lucy;00:36 — Люси арестована
+-00:63 - Last registered NIN IP was Kitty's;00:63 — последний зарегистрированный НИН-IP принадлежал Китти
+-"Their NINs were burned down by a ""destructive malware""";Их НИН сожгло «деструктивное вредоносное ПО»
+-00:75 - Viktii's Boys close off the Fast Food Plateau;00:75 — парни Викти перекрывают Фастфудное плато
+-Burning wire and meat prior incident;Перед инцидентом — запах жжёной проводки и мяса
+-NIN and electricity blackout prior incident;Перед инцидентом — отключение НИН и электричества
+-Incident happened at 00:65;Инцидент случился в 00:65
+-Returned intoxicated at 00.21;Вернулась пьяной в 00:21
+-Ask around CoffeeINN, Flats;Расспросить в КофеИНН и Кварталах
+-Find Goodfellow;Найти Гудфеллоу
+-Find Puck's apartment around Flats: CoffeeINN;Найти квартиру Пака в Кварталах у КофеИНН
+-Turn on the Cat in Puck's apartment;Включить Кота в квартире Пака
+-Find a charger for the Cat in Puck's apartment;Найти зарядку для Кота в квартире Пака
+-Investigate Puck's apartment in Corridor 88-990;Осмотреть квартиру Пака в Коридоре 88-990
+-Find his old Inferno pass cartridge;Найти его старый картридж-пропуск в Инферно
+-Report to Puck;Доложить Паку
+-Buy Pet Bion 6.35 charger at trafika;Купить зарядку для Пет-Бион 6.35 в Трафике
+-One of the fancy guides.;Один из модных проводников.
+-Call themselves 'indie' guides;Называют себя «независимыми» проводниками
+-Takes Uppers to Den of Temptations in Inferno;Возит Верхних в Логово соблазнов в Инферно
+-Possibly skinny, average height, wears a fedora;Возможно, худой, среднего роста, носит федору
+-Mali Cvet calls Puck Goodfellow;Мали Цвет зовёт Пака Гудфеллоу
+-His dad Kriv was in Big Daddy's gang, got injured;Его отец Крив был в банде Большого Папочки и пострадал
+-Left Inferno with Kitty at 00:45;Ушла из Инферно с Китти в 00:45
+-Mila saw him in the crowd at Tresh, before the impaling started;Мила видела его в толпе на Свалке до того, как начали сажать на кол
+-Picked up Kitty from the Tresh before the impaling started (00:65);Забрал Китти со Свалки до того, как начали сажать на кол (00:65)
+-Packed up the necessities from his apartment;Собрал необходимое в своей квартире
+-Puck's father's mind is transfered to a pet bion body;Сознание отца Пака перенесено в тело пет-биона
+-Didn't put Kriv's batteries to recharge;Не поставил батареи Крива на зарядку
+-Puck is not involved in any gang business;Пак не связан с делами банд
+-Lived with his sister;Жил с сестрой
+-Decent Guy;Приличный парень
+-Has Debts;Есть долги
+-Well-Dressed Man;Хорошо одетый мужчина
+-Brought a woman home this morning;Сегодня утром привёл женщину домой
+-Returned to Inferno with Kitty at 4:33;Вернулась в Инферно с Китти в 4:33
+-Talk to the creep in the corner of Metro Station;Поговорить с типом в углу станции метро
+-Nobody knows Goodfellow;Никто не знает Гудфеллоу
+-Where did Goodfellow take them;Куда Гудфеллоу их увёл
+-Find the missing handle for the arcade machine;Найти пропавшую рукоятку от игрового автомата
+-Ask for Goodfellow description;Спросить описание Гудфеллоу
+-Give Lucy’s photo to Mali Cvet;Отдать фото Люси Мали Цвету
+-Mali Cvet NIN Pass;НИН-пропуск Мали Цвета
+-Take Hacked License to Mali Cvet;Отнести взломанную лицензию Мали Цвету
+-Slay Jalani;Уничтожить Джалани
+-Mixes names;Путает имена
+-Archived' a guide;«Архивировал» проводника
+-Archived' Harry Maylie 621 days ago;«Архивировал» Гарри Мейли 621 день назад
+-Fought a war against Jalani;Воевал против Джалани
+-He is from the Underworld;Он из Нижнего мира
+-Someone tortured him;Его кто-то пытал
+-Wants to be a freelance guide;Хочет стать свободным проводником
+-What's up with the Granny?;Что не так с Бабулей?
+-Did granny mistake her daugher for Kitty;Приняла ли Бабуля дочь за Китти
+-Ask about Granny's daughter.;Спросить про дочь Бабули
+-If Granny Witnessed BullSec Raid;Видела ли Бабуля рейд БулСека
+-Hearing-impaired;Туговата на слух
+-Ate breakfast with Kitty;Завтракала с Китти
+-Find Baths;Найти Бани
+-Three fences is his favorite poem;«Три забора» — его любимое стихотворение
+-Cleared himself of Tech;Снял с себя обвинение по технике
+-Big Daddy techie;Технарь Большого Папочки
+-Not fond of Diesel and Greshka;Не любит Дизеля и Грешку
+-Viktii admires his manipulative skills;Викти восхищается его даром манипуляции
+-Find Puck;Найти Пака
+-Ask Kriv for the keys to his Taxi;Попросить у Крива ключи от его такси
+-Stuck inside a Cat Bion;Застрял в теле Кот-биона
+-Impaled BullSecs;Посаженные на кол БулСеки
+-Appointed Muscles;Приставлен Мускул
+-Ex Big Daddiy brutes, now controlled by Chenkiis;Бывшие головорезы Большого Папочки, теперь под Ченки
+-Left Inferno at 00:40 and disappeared;Ушла из Инферно в 00:40 и исчезла
+-Rose's best friend;Лучшая подруга Розы
+-Had to run from Zina;Пришлось бежать от Зины
+-Find and question Kitty;Найти и допросить Китти
+-Discover Kitty's current location;Выяснить, где сейчас Китти
+-Check if she's at Kazan;Проверить, не в Казане ли она
+-You need a registered guide, NIN pass, or a cartridge to enter;Для входа нужен зарегистрированный проводник, НИН-пропуск или картридж
+-Inferno under lockdown;Инферно перекрыт
+-Worm is the best drug in the Inferno;«Червь» — лучший наркотик в Инферно
+-The outage was caused by a violent null-zone shockwave;Отключение вызвано мощной ударной волной из нулевой зоны
+-The null zone is slowly subsiding;Нулевая зона постепенно затихает
+-Worm is a drug from the Underworld;«Червь» — наркотик из Нижнего мира
+-Worm lets you relive 5 years of someone's life;«Червь» даёт прожить 5 лет чужой жизни
+-Find a way to enter Inferno;Найти способ попасть в Инферно
+-Find a guide to enter the Inferno;Найти проводника, чтобы попасть в Инферно
+-Find a guide licence for Mali Cvet;Найти лицензию проводника для Мали Цвета
+-Hack Puck’s licence;Взломать лицензию Пака
+-Take hacked licence to Mali Cvet;Отнести взломанную лицензию Мали Цвету
+-Enter Inferno with Mali Cvet;Войти в Инферно с Мали Цветом
+-Find a used licence cartridge;Найти б/у картридж лицензии
+-Hack the used licence;Взломать б/у лицензию
+-Tell Mali Cvet about his renewed licence;Сообщить Мали Цвету о продлённой лицензии
+-Find a manual car to crash into Inferno VIP;Найти машину с ручным управлением, чтобы протаранить ВИП Инферно
+-Find a key for the taxi;Найти ключ от такси
+-Ask kriv about his key to the taxi;Спросить Крива, где ключ от такси
+-Get the key to Kriv's car from Buzz;Взять ключ от машины Крива у Базза
+-Drive the taxi into the Inferno VIP;Въехать на такси в ВИП Инферно
+-Return to Dzo later about the hand;Позже вернуться к Дзо насчёт руки
+-Check the Shockwaved Rooms;Проверить комнаты, задетые ударной волной
+-Is Dzo’s tech cult affected?;Пострадал ли техно-культ Дзо?
+-Someone is hunting Dzo's bion connection;Кто-то охотится за бион-подключением Дзо
+-Talk Dzo back out of Jalani Business;Отговорить Дзо от дел с Джалани
+-Try to help dzo;Попробовать помочь Дзо
+-Save Dzo from Jalani;Спасти Дзо от Джалани
+-Bring a Chenkii to Cauldron;Привести Ченки к Котлу
+-Disrupt Viktii's Boys;Сорвать планы парней Викти
+-Ask Preacher how to sabotage Dzo;Спросить Проповедника, как саботировать Дзо
+-Ask Chenkiis about the server room;Спросить Ченки про серверную
+-Return to the Cauldron;Вернуться к Котлу
+-Tell Dzo about Palers;Рассказать Дзо про Палеров
+-Report about the Incident Room;Доложить о комнате инцидента
+-Find the server room;Найти серверную
+-Lives in a techie commune;Живёт в коммуне технарей
+-Has nervous implants;Имеет импланты нервной системы
+-Has a backup of Jalani;У него есть резервная копия Джалани
+-Get the keys to Kriv's car;Взять ключи от машины Крива
+-Find a guide in Praeludium, beyond the Cauldron;Найти проводника в Прелюдиуме, за Котлом
+-Mutilated bodies’ heads and spines exploded, all augs fried;У изуродованных тел взорвались головы и позвоночники, все аугментации сгорели
+-Someone was presented on a strange cyber-chair;Кого-то показывали на странном кибер-кресле
+-Someone was presented on a Bion upload chair;Кого-то показывали на кресле загрузки биона
+-Someone survived the incident;Кто-то выжил в этом инциденте
+-Survivor was probably female;Выжившая, скорее всего, женщина
+-All tech fried;Вся техника сгорела
+-Blood is dark blue hue;Кровь тёмно-синего оттенка
+-Survivor's tracks lost at cauldron;Следы выжившей потерялись у Котла
+-Victims were Palers;Жертвы — Палеры
+-Did the victims have nervous system augs?;Были ли у жертв аугментации нервной системы?
+-Was Dzo here!?;Дзо был здесь?!
+-Follow the bloody tracks;Идти по кровавому следу
+-Jalani is fried;Джалани сгорел
+-Devours Bion imprints;Пожирает бион-отпечатки
+-Chenkiis are Palers;Ченки — это Палеры
+-Copper-based blood system;Кровеносная система на медной основе
+-Blue blood;Синяя кровь
+-Storage for Jalani;Хранилище для Джалани
+-See, feel, control data flow with natural senses;Видеть, чувствовать и управлять потоком данных обычными чувствами
+-Underworld race;Раса Нижнего мира
+-CYN;ЦИН
+-Their NINs were burned down by a "destructive malware";Их НИНы сожгла деструктивная малварь
